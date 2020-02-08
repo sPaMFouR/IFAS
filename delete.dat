@@ -1,0 +1,1274 @@
+ Name SpType Teff e_Teff log(g) e_log(g) [Fe/H] e_[Fe/H]
+487 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/100006.txt "K0III       " " 4719" "  22" " 2.51" " 0.07" -0.20 0.05
+488 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/100030.txt "G9IV        " " 4977" "  23" " 2.95" " 0.06" -0.40 0.05
+489 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/100446.txt "F8          " " 6087" "  37" " 4.22" " 0.06" -0.45 0.06
+490 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/100470.txt "K0III       " " 4714" "  23" " 2.58" " 0.08" -0.17 0.05
+491 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/100563.txt "F5V         " " 6404" "  57" " 4.22" " 0.08" " 0.04" 0.07
+492 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/100696.txt "K0III       " " 4896" "  26" " 2.50" " 0.08" -0.34 0.06
+493 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/100889.txt "B9.5Vn      " 10563 " 116" " 3.83" " 0.07" -0.27 0.07
+494 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/100920.txt "G9III       " " 4877" "  23" " 2.55" " 0.07" -0.20 0.05
+495 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/101484.txt "K0III       " " 4919" "  29" " 2.80" " 0.08" " 0.02" 0.06
+496 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/101501.txt "G8V         " " 5586" "  27" " 4.60" " 0.05" " 0.03" 0.05
+497 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/101673.txt "K3III       " " 4376" "  24" " 1.97" " 0.10" -0.13 0.06
+498 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/101676.txt "F6V         " " 6197" "  38" " 4.14" " 0.06" -0.43 0.06
+499 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/102070.txt "G8III       " " 5028" "  30" " 2.57" " 0.08" " 0.03" 0.07
+500 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/102212.txt "M1III       " " 3738" "   6" " 1.55" " 0.10" -0.41 0.05
+501 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/102224.txt "K0.5IIIb    " " 4462" "  20" " 2.05" " 0.08" -0.38 0.05
+502 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/102328.txt "K3III       " " 4389" "  21" " 2.59" " 0.10" " 0.30" 0.05
+503 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/102574.txt "F7V         " " 5973" "  34" " 3.89" " 0.06" " 0.18" 0.05
+504 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/102634.txt "F7V         " " 6210" "  34" " 4.10" " 0.06" " 0.16" 0.04
+505 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/102870.txt "F9V         " " 6071" "  30" " 4.05" " 0.06" " 0.13" 0.04
+506 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/103047.txt "K0          " " 5000" "  26" " 3.38" " 0.06" " 0.06" 0.05
+77 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/10307.txt "G1.5V       " " 5881" "  49" " 4.29" " 0.09" " 0.03" 0.08
+507 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/103287.txt "A0V         " " 9361" " 139" " 3.85" " 0.07" -0.44 0.09
+78 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/10362.txt "B7II        " 14902 " 368" " 3.31" " 0.12" " 0.32" 0.12
+508 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/104304.txt "G9IV        " " 5546" "  32" " 4.33" " 0.06" " 0.31" 0.05
+79 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/10476.txt "K1V         " " 5229" "  33" " 4.58" " 0.06" " 0.02" 0.06
+509 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/104783.txt "G5III       " " 5103" "  91" " 2.63" " 0.25" -0.68 0.22
+80 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/10486.txt "K2IV        " " 4896" "  33" " 3.39" " 0.08" " 0.36" 0.06
+510 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/104979.txt "G8IIIa      " " 4818" "  32" " 1.98" " 0.10" -0.58 0.08
+511 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/104985.txt "G9III       " " 4713" "  25" " 2.47" " 0.09" -0.33 0.06
+512 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/105043.txt "K2III       " " 4399" "  21" " 2.43" " 0.09" -0.22 0.05
+513 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/105262.txt "B9          " " 8855" "    " " 1.82" "     " -1.61 
+514 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/105546.txt "G2IIIw      " " 5106" "  45" " 2.30" " 0.13" -1.48 0.11
+515 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/105755.txt "G0Vw        " " 5788" "  76" " 4.08" " 0.15" -0.66 0.14
+516 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/105944.txt "G7III       " " 4995" "  45" " 2.39" " 0.13" -0.70 0.11
+517 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/106365.txt "K2III       " " 4630" "  74" " 2.71" " 0.25" -0.01 0.16
+518 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/106516.txt "F5V         " " 6173" "  28" " 4.31" " 0.04" -0.73 0.05
+519 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/106591.txt "A3V         " " 8564" " 119" " 3.83" " 0.14" -0.35 0.15
+520 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/106714.txt "G8III       " " 4928" "  36" " 2.56" " 0.10" -0.22 0.08
+81 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/10700.txt "G8V         " " 5394" "  34" " 4.56" " 0.07" -0.47 0.07
+521 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/107113.txt "F4V         " " 6456" "  43" " 4.19" " 0.05" -0.45 0.06
+522 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/107213.txt "F8Vs        " " 6170" "  48" " 3.96" " 0.09" " 0.20" 0.06
+523 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/107259.txt "A2IV        " " 8756" "  77" " 3.54" " 0.09" -0.17 0.06
+524 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/107328.txt "K0IIIb      " " 4420" "  24" " 2.10" " 0.10" -0.39 0.06
+525 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/107383.txt "G8III       " " 4806" "  34" " 2.44" " 0.11" -0.36 0.08
+526 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/107418.txt "K0III       " " 4753" "  23" " 2.77" " 0.07" -0.03 0.05
+82 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/10761.txt "G8III       " " 4997" "  35" " 2.54" " 0.09" -0.06 0.08
+527 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/107752.txt "G5          " " 4868" "  50" " 1.90" " 0.15" -2.47 0.1
+83 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/10780.txt "K0V         " " 5417" "  37" " 4.63" " 0.07" " 0.11" 0.07
+528 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/107950.txt "G6III       " " 5176" "  30" " 2.48" " 0.07" -0.02 0.07
+529 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/108225.txt "G9III       " " 5060" "  26" " 2.85" " 0.07" " 0.08" 0.06
+530 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/108317.txt "G0          " " 5114" "  40" " 2.46" " 0.12" -2.27 0.09
+531 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/108381.txt "K1III       " " 4693" "  24" " 2.71" " 0.08" " 0.24" 0.05
+532 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/108510.txt "G0          " " 6008" "  33" " 4.37" " 0.06" " 0.01" 0.05
+533 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/108954.txt "F9V         " " 6028" "  31" " 4.35" " 0.05" -0.12 0.05
+534 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/108985.txt "K5          " " 3960" "  11" " 1.78" " 0.11" " 0.01" 0.04
+535 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/109303.txt "F8          " " 6057" "  41" " 4.08" " 0.07" -0.57 0.07
+536 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/109317.txt "K0III       " " 4862" "  24" " 2.61" " 0.07" -0.08 0.05
+537 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/109345.txt "K0III       " " 4772" "  22" " 2.55" " 0.07" -0.09 0.05
+538 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/109358.txt "G0V         " " 5879" "  27" " 4.34" " 0.05" -0.24 0.05
+539 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/109387.txt "B6IIIpe     " 15302 1016 " 2.49" " 0.16" -0.65 0.36
+84 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/10975.txt "K0III       " " 4889" "  31" " 2.51" " 0.09" -0.22 0.07
+540 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/109995.txt "A0p         " " 8441" "    " " 3.18" "     " -1.74 
+541 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/110010.txt "G0          " " 5904" "  45" " 4.26" " 0.08" " 0.33" 0.06
+542 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/110014.txt "K2III       " " 4495" "  24" " 2.47" " 0.09" " 0.30" 0.05
+85 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/11007.txt "F8V         " " 5971" "  44" " 4.08" " 0.08" -0.22 0.07
+543 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/110184.txt "G5          " " 4478" "  39" " 0.96" " 0.13" -2.25 0.08
+544 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/110281.txt "K5          " " 4130" "  20" " 0.46" " 0.08" -1.38 0.05
+545 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/110679.txt "G5III       " " 4994" "  39" " 2.51" " 0.11" -0.67 0.09
+546 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/110897.txt "G0V         " " 5844" "  28" " 4.29" " 0.05" -0.57 0.05
+547 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/110930.txt "G7IIIw      " " 5000" "  40" " 2.50" " 0.11" -0.58 0.1
+548 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/111028.txt "K1III-IV    " " 4803" "  23" " 3.19" " 0.07" -0.15 0.05
+549 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/111335.txt "K5III       " " 3875" "   9" " 1.47" " 0.10" -0.05 0.04
+550 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/111591.txt "K0III       " " 4843" "  23" " 2.77" " 0.07" -0.19 0.05
+551 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/111721.txt "G6V         " " 5072" "  32" " 2.66" " 0.10" -1.30 0.07
+552 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/111765.txt "K4III:      " " 4346" "  16" " 2.16" " 0.08" -0.02 0.04
+553 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/111812.txt "G0IIIp      " " 5771" "  29" " 3.20" " 0.07" " 0.02" 0.05
+554 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/112030.txt "G7III       " " 4972" "  27" " 2.51" " 0.08" -0.48 0.06
+555 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/112127.txt "K2.5III     " " 4447" "  27" " 2.58" " 0.11" " 0.30" 0.06
+556 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/112142.txt "M3III       " " 3525" "   8" " 1.05" " 0.16" -0.10 0.06
+557 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/112300.txt "M3III       " " 3445" "   6" " 1.05" " 0.13" -0.03 0.05
+558 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/113022.txt "F6Vs        " " 6441" "  27" " 4.11" " 0.04" " 0.07" 0.03
+559 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/113092.txt "K2III       " " 4272" "  20" " 1.50" " 0.10" -0.72 0.06
+560 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/113095.txt "K0III       " " 4952" "  28" " 2.66" " 0.08" -0.09 0.06
+561 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/113226.txt "G8III       " " 5126" "  29" " 2.82" " 0.07" " 0.13" 0.06
+562 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/113436.txt "A3Vn        " " 8735" " 115" " 3.67" " 0.16" -0.37 0.15
+563 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/113515.txt "G8III       " " 4714" "  29" " 2.39" " 0.10" -0.60 0.07
+564 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/113847.txt "K1III       " " 4560" "  22" " 2.31" " 0.08" -0.12 0.05
+565 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/113848.txt "F4V         " " 6680" "  31" " 4.17" " 0.04" -0.22 0.04
+566 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/113994.txt "G7III       " " 4785" "  27" " 2.59" " 0.09" -0.38 0.06
+567 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/113996.txt "K5III       " " 3998" "  11" " 1.90" " 0.11" -0.05 0.04
+568 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/114038.txt "K1III       " " 4621" "  21" " 2.48" " 0.07" " 0.02" 0.05
+569 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/114092.txt "K4III       " " 4199" "  16" " 2.42" " 0.10" " 0.21" 0.05
+570 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/114113.txt "K3III       " " 4507" "  23" " 2.41" " 0.09" -0.10 0.05
+571 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/114203.txt "K0          " " 4869" "  28" " 2.63" " 0.08" -0.13 0.06
+572 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/114256.txt "K0III       " " 4834" "  26" " 2.66" " 0.08" " 0.01" 0.06
+573 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/114287.txt "K5III       " " 3992" "  12" " 1.90" " 0.12" " 0.06" 0.04
+574 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/114330.txt "A1IVs+...   " " 9550" " 130" " 3.85" " 0.07" -0.23 0.07
+575 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/114357.txt "K3III       " " 4426" "  21" " 2.65" " 0.09" " 0.14" 0.05
+576 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/114642.txt "F6V         " " 6401" "  30" " 4.04" " 0.04" -0.12 0.04
+577 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/114710.txt "F9.5V       " " 6004" "  29" " 4.36" " 0.05" " 0.03" 0.04
+578 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/114946.txt "G8III/IV    " " 5060" "  26" " 3.23" " 0.07" -0.37 0.06
+579 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/114961.txt "M7III       " " 3080" "  19" " 0.36" " 0.44" -1.00 0.0
+580 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/115004.txt "K0III       " " 4905" "  24" " 2.37" " 0.06" " 0.09" 0.05
+86 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/11503.txt "A1p...      " 10990 " 241" " 3.70" " 0.21" " 0.43" 0.14
+581 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/115061.txt "K0          " " 4559" "  21" " 2.74" " 0.08" -0.02 0.05
+582 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/115136.txt "K2III       " " 4611" "  22" " 2.59" " 0.07" " 0.03" 0.05
+583 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/115202.txt "K1III       " " 4791" "  23" " 3.19" " 0.07" -0.06 0.05
+584 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/115383.txt "G0Vs        " " 6024" "  32" " 4.26" " 0.06" " 0.15" 0.04
+585 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/115444.txt "K0          " " 4874" "  46" " 1.91" " 0.14" -2.52 0.1
+586 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/115539.txt "G8III-IV    " " 4902" "  24" " 2.48" " 0.07" -0.43 0.06
+587 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/115589.txt "G8IV        " " 5228" "  74" " 4.42" " 0.14" " 0.25" 0.13
+588 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/115604.txt "F3III       " " 7176" "  47" " 3.61" " 0.07" " 0.54" 0.04
+589 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/115617.txt "G5V         " " 5598" "  32" " 4.46" " 0.06" " 0.01" 0.05
+87 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/11592.txt "F5V         " " 6328" "  47" " 4.21" " 0.06" -0.34 0.07
+590 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/116292.txt "K0III       " " 4955" "  25" " 2.68" " 0.07" -0.07 0.06
+88 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/11636.txt "A5V         " " 8061" "  43" " 3.88" " 0.04" " 0.07" 0.04
+591 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/116656.txt "A2V         " " 9135" " 139" " 3.89" " 0.07" -0.03 0.08
+592 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/116658.txt B1III-IV+... 15073 1892 " 3.60" " 0.22" -0.01 0.07
+593 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/116976.txt "K1IIICN     " " 4796" "  28" " 2.63" " 0.08" " 0.20" 0.06
+594 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/117176.txt "G5V         " " 5502" "  30" " 3.89" " 0.07" -0.10 0.05
+595 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/117243.txt "G5III       " " 5855" "  34" " 4.16" " 0.07" " 0.24" 0.05
+89 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/11749.txt "K0III       " " 4713" "  30" " 2.44" " 0.10" -0.21 0.07
+596 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/117818.txt "K0III       " " 4904" "  24" " 2.53" " 0.07" -0.32 0.06
+597 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/117876.txt "G8III       " " 4766" "  29" " 2.50" " 0.10" -0.46 0.07
+598 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/118055.txt "K0w...      " " 4380" "  27" " 0.78" " 0.10" -1.86 0.07
+599 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/118098.txt "A3V         " " 8347" "  77" " 3.93" " 0.09" -0.26 0.1
+600 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/118100.txt "K5Ve        " " 4239" "  25" " 4.53" " 0.07" -0.17 0.08
+601 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/118244.txt "F5V         " " 6343" "  43" " 4.21" " 0.05" -0.50 0.06
+602 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/118266.txt "K1III+...   " " 4746" "  22" " 2.76" " 0.07" -0.13 0.05
+603 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/119516.txt "G5          " " 5315" "  52" " 2.62" " 0.15" -1.84 0.13
+604 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/120136.txt "F6IV        " " 6318" "  33" " 4.15" " 0.05" " 0.20" 0.04
+605 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/120164.txt "K0III+...   " " 4797" "  22" " 2.58" " 0.07" -0.10 0.05
+606 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/120315.txt "B3V         " 17291 " 336" " 3.86" " 0.08" -0.14 0.07
+607 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/120348.txt "K1III       " " 4659" "  20" " 2.44" " 0.07" -0.17 0.05
+608 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/120452.txt "K0III       " " 4821" "  26" " 2.65" " 0.08" " 0.01" 0.06
+609 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/120933.txt "K5III       " " 3509" "   6" " 1.01" " 0.11" -0.11 0.04
+610 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/121146.txt "K2IV        " " 4385" "  20" " 2.70" " 0.08" -0.08 0.05
+611 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/121299.txt "K2III       " " 4756" "  24" " 2.66" " 0.07" " 0.13" 0.05
+612 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/121370.txt "G0IV        " " 5998" "  34" " 3.82" " 0.07" " 0.28" 0.05
+613 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/121560.txt "F6V         " " 6133" "  30" " 4.27" " 0.05" -0.41 0.05
+614 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/122408.txt "A3V         " " 8308" "  59" " 3.80" " 0.07" -0.27 0.08
+615 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/122563.txt "F8IV        " " 4755" "  34" " 1.62" " 0.11" -2.37 0.07
+6 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/1227.txt "G8II-III    " " 5068" "  41" " 2.81" " 0.10" " 0.00" 0.09
+616 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/122956.txt "G6IV/Vw...  " " 4594" "  36" " 1.23" " 0.12" -1.85 0.09
+90 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/12303.txt "B8III       " 12230 " 157" " 4.19" " 0.05" " 0.30" 0.08
+617 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/123299.txt "A0III       " 10307 " 175" " 3.90" " 0.07" -0.14 0.09
+91 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/12339.txt "G8III       " " 5022" "  27" " 2.51" " 0.07" -0.06 0.06
+618 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/123657.txt "M4.5:III    " " 3235" "   8" " 0.48" " 0.15" -0.20 0.08
+619 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/123934.txt "M1III       " " 3680" "   8" " 1.30" " 0.15" -0.23 0.06
+620 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/123977.txt "K0III       " " 4799" "  25" " 2.51" " 0.08" -0.24 0.06
+621 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/124186.txt "K4III       " " 4404" "  19" " 2.58" " 0.08" " 0.29" 0.04
+622 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/124244.txt "G5          " " 5782" "  39" " 4.02" " 0.08" " 0.07" 0.06
+623 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/124547.txt "K3III       " " 4141" "  16" " 1.73" " 0.10" -0.16 0.05
+624 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/124570.txt "F6IV        " " 6114" "  31" " 3.95" " 0.06" " 0.10" 0.04
+625 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/124850.txt "F7IV        " " 6226" "  29" " 3.90" " 0.05" -0.07 0.04
+626 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/124897.txt "K1.5III     " " 4310" "  26" " 2.02" " 0.13" -0.54 0.08
+627 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/125184.txt "G5IV        " " 5611" "  28" " 3.97" " 0.06" " 0.26" 0.05
+92 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/12533.txt "K3IIb...    " " 4319" "  18" " 1.50" " 0.08" " 0.04" 0.05
+628 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/125451.txt "F5IV        " " 6609" "  42" " 4.14" " 0.05" -0.07 0.05
+629 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/125454.txt "G8III       " " 4842" "  23" " 2.58" " 0.07" -0.11 0.05
+630 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/125560.txt "K3III       " " 4451" "  21" " 2.57" " 0.08" " 0.22" 0.05
+631 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/126141.txt "F5V         " " 6677" "  29" " 4.17" " 0.03" -0.08 0.04
+632 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/126271.txt "K4III       " " 4442" "  22" " 2.54" " 0.09" -0.01 0.05
+633 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/126327.txt "M7.5        " " 3088" "  17" " 0.30" " 0.36" -1.00 0.0
+634 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/126661.txt "F0m         " " 7613" "  45" " 3.47" " 0.05" " 0.36" 0.04
+635 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/126681.txt "G3V         " " 5631" "  70" " 4.38" " 0.13" -1.12 0.16
+636 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/126778.txt "K0III       " " 4847" "  29" " 2.47" " 0.09" -0.50 0.07
+637 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/126868.txt "G2IV        " " 5707" "  49" " 3.67" " 0.11" " 0.01" 0.08
+638 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/127334.txt "G5V         " " 5667" "  31" " 4.21" " 0.06" " 0.23" 0.05
+639 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/127665.txt "K3III       " " 4307" "  18" " 2.17" " 0.09" -0.05 0.05
+640 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/128000.txt "K5III       " " 3941" "  12" " 1.86" " 0.12" " 0.05" 0.05
+641 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/128167.txt "F2V         " " 6703" "  26" " 4.21" " 0.03" -0.42 0.04
+642 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/128385.txt "F5          " " 6192" "  40" " 4.19" " 0.06" -0.24 0.06
+643 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/128750.txt "K2III:      " " 4617" "  21" " 2.50" " 0.08" -0.21 0.05
+644 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/128987.txt "G6V         " " 5581" "  29" " 4.62" " 0.05" " 0.08" 0.05
+645 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/129132.txt "G0V         " " 6761" "  45" " 3.90" " 0.06" " 0.04" 0.05
+93 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/12929.txt "K2III       " " 4527" "  19" " 2.42" " 0.07" -0.19 0.04
+646 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/129312.txt "G7III       " " 5002" "  28" " 2.37" " 0.07" " 0.02" 0.06
+647 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/129336.txt "G8III       " " 4942" "  32" " 2.64" " 0.09" -0.28 0.07
+94 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/12953.txt "A1Iae       " 10766 " 185" " 1.65" " 0.05" " 0.37" 0.11
+648 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/129956.txt "B9.5V       " 10252 " 160" " 3.86" " 0.09" -0.37 0.1
+649 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/129972.txt "G8.5III     " " 4987" "  28" " 2.64" " 0.07" -0.02 0.06
+650 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/129978.txt "K2III       " " 4500" "  20" " 2.25" " 0.08" -0.20 0.05
+651 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/130025.txt "K0          " " 5226" "  32" " 2.82" " 0.08" -0.13 0.07
+652 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/130087.txt "G2IV        " " 5950" "  33" " 4.10" " 0.06" " 0.23" 0.05
+653 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/130109.txt "A0V         " " 9772" " 205" " 3.83" " 0.12" -0.41 0.14
+654 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/130325.txt "K0III       " " 4706" "  26" " 2.53" " 0.08" -0.16 0.06
+655 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/130705.txt "K4II-III    " " 4425" "  22" " 2.57" " 0.09" " 0.38" 0.05
+656 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/130948.txt "G1V         " " 5993" "  31" " 4.41" " 0.05" -0.01 0.05
+657 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/130952.txt "G8III       " " 4789" "  27" " 2.50" " 0.09" -0.40 0.06
+658 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/131111.txt "K0III       " " 4724" "  26" " 2.82" " 0.08" -0.27 0.06
+659 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/131156.txt "G8V         " " 5530" "  29" " 4.60" " 0.06" -0.08 0.05
+660 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/131507.txt "K4III       " " 4162" "  16" " 2.10" " 0.11" -0.11 0.05
+661 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/131873.txt "K4III       " " 4067" "  13" " 1.70" " 0.11" -0.13 0.05
+662 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/131918.txt "K4III       " " 4148" "  17" " 1.67" " 0.11" -0.03 0.05
+663 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/132132.txt "K1III       " " 4681" "  26" " 2.55" " 0.08" " 0.08" 0.06
+664 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/132254.txt "F7V         " " 6195" "  30" " 4.15" " 0.05" " 0.05" 0.04
+665 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/132345.txt "K3IIICN...  " " 4450" "  24" " 2.53" " 0.10" " 0.36" 0.05
+666 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/132883.txt "K1:IV-V:    " " 4534" "  20" " 2.82" " 0.07" " 0.05" 0.04
+667 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/133165.txt "K0.5IIIb    " " 4725" "  24" " 2.50" " 0.08" -0.24 0.06
+668 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/133208.txt "G8IIIa      " " 5049" "  45" " 2.35" " 0.11" -0.05 0.1
+669 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/134063.txt "G5III       " " 4901" "  28" " 2.40" " 0.09" -0.68 0.07
+670 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/134083.txt "F5V         " " 6517" "  30" " 4.18" " 0.04" -0.03 0.04
+671 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/134169.txt "G1Vw        " " 5878" "  33" " 4.07" " 0.06" -0.77 0.06
+672 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/134190.txt "G7.5III     " " 4937" "  30" " 2.54" " 0.09" -0.38 0.07
+673 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/134474.txt "G5          " " 5341" "  26" " 4.59" " 0.05" " 0.22" 0.05
+95 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/13475.txt "B9V+...     " " 5122" "  74" " 2.65" " 0.20" -0.31 0.17
+674 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/135148.txt "K0          " " 4361" "  30" " 0.72" " 0.10" -1.85 0.07
+96 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/13530.txt "G8III:var   " " 4863" "  28" " 2.72" " 0.09" -0.57 0.06
+97 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/13555.txt "F5V         " " 6432" "  26" " 4.07" " 0.04" -0.19 0.04
+675 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/135722.txt "G8III       " " 4915" "  30" " 2.61" " 0.09" -0.42 0.07
+676 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/135742.txt "B8V         " 12946 " 449" " 4.12" " 0.16" " 0.33" 0.17
+677 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/136064.txt "F9IV        " " 6124" "  34" " 4.02" " 0.06" " 0.02" 0.05
+98 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/13611.txt "G8Iab:      " " 5101" "  30" " 2.34" " 0.08" -0.21 0.07
+678 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/136202.txt "F8III-IV    " " 6132" "  33" " 3.99" " 0.06" " 0.02" 0.05
+679 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/136479.txt "K1III       " " 4957" "  34" " 2.93" " 0.09" " 0.25" 0.07
+680 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/136512.txt "K0III       " " 4821" "  25" " 2.54" " 0.08" -0.27 0.06
+681 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/136726.txt "K4III       " " 4204" "  20" " 1.99" " 0.13" -0.01 0.06
+682 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/136729.txt "A4V         " " 8247" "  63" " 3.93" " 0.07" -0.30 0.08
+683 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/137052.txt "F5IV        " " 6477" "  31" " 4.02" " 0.04" -0.04 0.04
+684 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/137510.txt "G0IV-V      " " 5886" "  30" " 3.89" " 0.06" " 0.29" 0.04
+685 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/137759.txt "K2III       " " 4525" "  22" " 2.63" " 0.08" " 0.11" 0.05
+686 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/138279.txt "F5          " " 6172" "  64" " 4.06" " 0.09" -1.35 0.15
+687 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/138481.txt "K5III       " " 3905" "  12" " 1.22" " 0.12" -0.01 0.04
+688 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/138716.txt "K1IV        " " 4779" "  47" " 3.14" " 0.14" -0.09 0.1
+689 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/138776.txt "K0          " " 5584" "  38" " 4.06" " 0.08" " 0.36" 0.06
+690 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/138905.txt "K0III       " " 4783" "  45" " 2.42" " 0.14" -0.40 0.11
+691 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/139195.txt K0III:CNs... " 4985" "  27" " 2.71" " 0.07" -0.11 0.06
+692 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/139446.txt "G8III/IV    " " 5108" "  31" " 2.75" " 0.08" -0.28 0.07
+693 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/139457.txt "F8V         " " 6077" "  51" " 4.12" " 0.09" -0.45 0.08
+694 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/139641.txt "G7.5IIIb    " " 5000" "  50" " 2.94" " 0.14" -0.52 0.11
+695 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/139669.txt "K5III       " " 3949" "  13" " 1.50" " 0.12" " 0.16" 0.04
+99 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/13974.txt "G0.5V       " " 5711" "  37" " 4.39" " 0.07" -0.42 0.07
+696 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/140027.txt "G8III       " " 5136" "  34" " 2.70" " 0.09" -0.11 0.08
+697 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/140283.txt "sdF3        " " 5798" "  52" " 3.59" " 0.10" -2.18 0.11
+698 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/140573.txt "K2IIIb      " " 4592" "  24" " 2.69" " 0.08" " 0.25" 0.05
+7 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/1406.txt "K3III       " " 4349" "  20" " 2.61" " 0.09" -0.13 0.06
+699 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/141003.txt "A2IV        " " 8538" "  78" " 3.75" " 0.10" -0.20 0.1
+700 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/141004.txt "G0V         " " 5892" "  30" " 4.19" " 0.06" -0.01 0.05
+701 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/141680.txt "G8III       " " 4848" "  41" " 2.59" " 0.12" -0.20 0.1
+702 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/141714.txt "G3.5III     " " 5317" "  31" " 3.24" " 0.08" -0.23 0.06
+703 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/142091.txt "K1IVa       " " 4844" "  25" " 3.27" " 0.07" " 0.07" 0.05
+100 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/14214.txt "G0.5IV      " " 5975" " 105" " 4.11" " 0.23" " 0.03" 0.21
+704 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/142198.txt "K0III       " " 4804" "  28" " 2.49" " 0.09" -0.27 0.06
+705 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/142373.txt "F8Ve...     " " 5837" "  38" " 3.98" " 0.08" -0.51 0.07
+706 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/142860.txt "F6IV        " " 6274" "  30" " 4.15" " 0.05" -0.19 0.04
+707 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/142980.txt "K1IV        " " 4493" "  22" " 2.65" " 0.09" " 0.01" 0.05
+708 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/143107.txt "K2III       " " 4397" "  20" " 2.09" " 0.09" -0.18 0.05
+709 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/143393.txt "K2III       " " 4599" "  24" " 2.68" " 0.09" -0.07 0.05
+710 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/143666.txt "G8IIIb      " " 4897" "  29" " 2.61" " 0.08" -0.19 0.07
+711 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/143761.txt "G0Va        " " 5799" "  29" " 4.19" " 0.06" -0.26 0.05
+712 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/144172.txt "F8          " " 6346" "  28" " 4.13" " 0.04" -0.45 0.04
+713 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/144585.txt "G5V         " " 5765" "  30" " 4.10" " 0.06" " 0.28" 0.04
+101 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/14489.txt "A2Ia        " 10650 " 136" " 1.74" " 0.04" " 0.26" 0.08
+714 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/145328.txt "K1III-IV    " " 4808" "  23" " 3.08" " 0.07" -0.07 0.05
+715 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/145502.txt "B2IV        " 19251 " 350" " 3.80" " 0.08" -0.02 0.05
+716 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/146051.txt "M0.5III     " " 3770" "   7" " 1.46" " 0.11" -0.04 0.04
+102 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/14625.txt "G8III       " " 4836" "  30" " 2.84" " 0.08" " 0.23" 0.06
+103 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/14626.txt "K0          " " 4630" "  26" " 2.73" " 0.09" -0.19 0.06
+717 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/146791.txt "G9.5IIIb    " " 4918" "  28" " 2.59" " 0.08" -0.13 0.06
+718 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/147394.txt "B5IV        " 15868 " 270" " 3.73" " 0.05" " 0.03" 0.05
+719 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/147677.txt "K0III       " " 4982" "  26" " 2.93" " 0.07" " 0.11" 0.05
+104 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/14770.txt "G8III       " " 5016" "  28" " 2.55" " 0.07" -0.02 0.06
+720 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/147700.txt "K0III       " " 4838" "  34" " 2.53" " 0.12" -0.18 0.08
+721 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/148293.txt "K2III       " " 4693" "  24" " 2.59" " 0.07" " 0.16" 0.05
+722 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/148387.txt "G8IIIb      " " 5066" "  37" " 2.78" " 0.10" -0.07 0.08
+723 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/148513.txt "K4III       " " 4127" "  15" " 2.15" " 0.11" " 0.19" 0.05
+724 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/148783.txt "M6III       " " 3146" "  10" " 0.45" " 0.18" -1.00 0.0
+725 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/148786.txt "G8/K0III    " " 5180" "  30" " 2.82" " 0.07" " 0.20" 0.06
+726 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/149161.txt "K4III       " " 3924" "  10" " 1.86" " 0.11" -0.22 0.05
+105 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/14938.txt "F5          " " 6116" "  94" " 4.18" " 0.16" -0.35 0.15
+727 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/149630.txt "B9V         " 10294 " 189" " 3.99" " 0.09" " 0.03" 0.12
+728 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/149661.txt "K2V         " " 5301" "  29" " 4.64" " 0.06" " 0.12" 0.05
+729 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/149750.txt "G5          " " 5783" "  37" " 4.06" " 0.07" " 0.16" 0.06
+730 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/149757.txt "O9V         " 33262 " 836" " 4.09" " 0.08" -0.09 0.08
+731 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/150012.txt "F5IV        " " 6628" "  33" " 3.98" " 0.05" " 0.13" 0.04
+732 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/150100.txt "B9.5Vn      " 10271 " 127" " 3.99" " 0.04" -0.33 0.07
+733 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/150117.txt "B9V         " 10727 " 157" " 3.91" " 0.08" -0.22 0.09
+734 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/150177.txt "F3V         " " 6141" "  30" " 4.04" " 0.05" -0.60 0.05
+735 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/150449.txt "K1III       " " 4773" "  28" " 2.67" " 0.09" -0.03 0.06
+736 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/150453.txt "F3V         " " 6506" "  35" " 4.06" " 0.05" -0.28 0.05
+737 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/150680.txt "G0IV        " " 5780" "  35" " 3.89" " 0.07" " 0.09" 0.06
+738 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/150997.txt "G7.5IIIb    " " 5042" "  37" " 2.79" " 0.10" -0.21 0.08
+739 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/151431.txt "A3V         " " 8346" "  55" " 3.78" " 0.07" -0.15 0.07
+740 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/151613.txt "F2V         " " 6760" "  33" " 4.11" " 0.04" -0.21 0.04
+741 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/151769.txt "F7IV        " " 6417" "  37" " 3.89" " 0.06" " 0.13" 0.04
+742 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/151862.txt "A1V         " " 9272" " 126" " 3.93" " 0.06" -0.14 0.07
+8 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/1522.txt "K1.5III     " " 4530" "  25" " 2.25" " 0.09" " 0.14" 0.05
+743 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/152569.txt "F0V         " " 7303" "  34" " 3.87" " 0.05" " 0.22" 0.04
+744 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/152601.txt "K2III       " " 4719" "  25" " 2.74" " 0.08" " 0.11" 0.05
+745 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/152614.txt "B8V         " 11651 " 164" " 4.03" " 0.07" " 0.09" 0.08
+746 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/152792.txt "G0V         " " 5662" "  28" " 3.87" " 0.06" -0.39 0.05
+747 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/152815.txt "G8III       " " 4941" "  32" " 2.62" " 0.09" -0.18 0.07
+106 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/15318.txt "B9III       " 10055 " 158" " 3.73" " 0.11" -0.43 0.11
+107 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/15335.txt "G0V         " " 5912" "  33" " 4.02" " 0.06" -0.18 0.05
+748 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/153597.txt "F6Vvar      " " 6304" "  35" " 4.29" " 0.05" -0.14 0.05
+749 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/153653.txt "A7V         " " 7561" "  35" " 4.12" " 0.04" -0.11 0.05
+750 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/153808.txt "A0V         " " 9609" " 205" " 3.82" " 0.12" -0.25 0.14
+751 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/154278.txt "K1III       " " 4718" "  31" " 2.61" " 0.10" -0.28 0.07
+752 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/154431.txt "A5V         " " 7821" "  49" " 4.03" " 0.05" -0.11 0.06
+753 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/154445.txt "B1V         " 22604 " 728" " 3.78" " 0.09" -0.02 0.05
+754 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/154543.txt "K2          " " 3576" "   7" " 1.27" " 0.14" -0.03 0.05
+755 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/154660.txt "A9V         " " 7663" "  33" " 3.97" " 0.05" -0.18 0.06
+756 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/155358.txt "G0          " " 5903" "  25" " 4.12" " 0.05" -0.66 0.04
+757 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/155514.txt "A8V         " " 7591" "  43" " 3.87" " 0.05" -0.09 0.06
+758 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/155763.txt "B6III       " 14064 " 207" " 3.79" " 0.07" " 0.13" 0.07
+108 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/15596.txt "G5III-IV    " " 4853" "  23" " 2.85" " 0.07" -0.65 0.05
+759 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/156164.txt "A3IV        " "     " "    " "     " "     " "     " 
+760 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/157089.txt "F9V         " " 5790" "  29" " 4.05" " 0.06" -0.57 0.05
+761 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/157198.txt "A2V         " " 9547" " 141" " 3.89" " 0.07" -0.28 0.08
+762 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/157214.txt "G0V         " " 5666" "  33" " 4.21" " 0.07" -0.40 0.06
+763 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/157373.txt "F4V         " " 6492" "  33" " 4.19" " 0.04" -0.46 0.05
+764 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/157466.txt "F8V         " " 6059" "  26" " 4.30" " 0.04" -0.42 0.04
+765 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/157740.txt "A3V         " " 8573" "  69" " 3.42" " 0.09" -0.05 0.06
+766 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/157741.txt "B9V         " 10999 " 174" " 3.88" " 0.11" -0.19 0.11
+767 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/157910.txt "G5III+...   " " 5232" "  32" " 2.65" " 0.08" -0.09 0.07
+109 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/15798.txt "F5V         " " 6470" "  47" " 4.07" " 0.06" -0.15 0.06
+768 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/158148.txt "B5V         " 15545 " 238" " 3.81" " 0.10" -0.03 0.09
+769 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/158261.txt "A0V         " " 9517" " 161" " 3.64" " 0.11" -0.10 0.1
+770 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/158352.txt "A8V         " " 7494" "  40" " 3.85" " 0.05" -0.06 0.05
+771 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/158414.txt "A4V         " " 8276" "  61" " 3.81" " 0.08" -0.19 0.08
+772 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/158485.txt "A4V         " " 8371" "  73" " 3.96" " 0.08" -0.23 0.09
+773 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/158614.txt "G9IV-V...   " " 5602" "  30" " 4.40" " 0.06" " 0.06" 0.05
+774 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/158716.txt "A1V         " " 8629" "  78" " 3.66" " 0.08" -0.04 0.06
+775 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/158899.txt "K4III       " " 4155" "  14" " 1.76" " 0.09" -0.03 0.04
+776 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/159139.txt "A1V         " " 9405" " 188" " 3.81" " 0.10" -0.55 0.14
+110 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/15920.txt "G8III       " " 5119" "  29" " 2.84" " 0.07" -0.08 0.06
+777 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/159307.txt "F8          " " 6333" "  30" " 4.13" " 0.04" -0.57 0.05
+778 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/159332.txt "F6V         " " 6264" "  37" " 4.00" " 0.06" -0.13 0.05
+779 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/160054.txt "A5V         " " 7890" "  53" " 3.92" " 0.05" -0.05 0.06
+780 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/160315.txt "K0III+...   " " 4980" "  29" " 2.88" " 0.08" " 0.10" 0.06
+781 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/160762.txt "B3IV        " 19109 " 383" " 3.80" " 0.05" -0.04 0.04
+782 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/160765.txt "A1V         " " 9235" " 162" " 3.91" " 0.08" -0.40 0.1
+783 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/160933.txt "F9V         " " 5869" "  36" " 3.92" " 0.07" -0.28 0.06
+784 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/161056.txt "B1.5V       " 21672 1001 " 3.62" " 0.14" " 0.00" 0.09
+785 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/161096.txt "K2III       " " 4593" "  24" " 2.69" " 0.08" " 0.25" 0.05
+786 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/161693.txt "A2V         " " 9391" " 163" " 3.80" " 0.10" -0.40 0.11
+787 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/161797.txt "G5IV        " " 5566" "  32" " 3.93" " 0.07" " 0.28" 0.05
+788 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/161817.txt "sdA2        " " 7631" "    " " 3.11" "     " -1.54 
+789 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/161868.txt "A0V         " " 9608" " 212" " 3.93" " 0.09" -0.60 0.15
+790 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/162555.txt "K1III       " " 4702" "  25" " 2.70" " 0.08" -0.10 0.05
+791 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/162570.txt "A9V         " " 7511" "  38" " 3.87" " 0.05" " 0.02" 0.05
+792 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/163506.txt "F2Ibe       " " 7826" "  98" " 1.48" " 0.08" " 0.01" 0.11
+793 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/163588.txt "K2III       " " 4483" "  25" " 2.65" " 0.10" " 0.04" 0.06
+794 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/163624.txt "A3V         " " 8422" "  63" " 3.77" " 0.07" -0.09 0.06
+795 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/163917.txt "G9III       " " 4965" "  40" " 2.78" " 0.10" " 0.16" 0.08
+796 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/163989.txt "F6IV-Vs     " " 6216" "  36" " 3.94" " 0.06" -0.04 0.05
+797 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/163993.txt "G8III       " " 5087" "  28" " 2.91" " 0.07" " 0.07" 0.06
+798 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/164136.txt "F2II        " " 6979" "  45" " 3.80" " 0.05" -0.07 0.05
+799 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/164259.txt "F2IV        " " 6764" "  28" " 4.09" " 0.03" " 0.01" 0.03
+800 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/164284.txt "B2Ve        " 19706 " 635" " 3.69" " 0.14" " 0.00" 0.08
+801 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/164353.txt "B5Ib        " 18738 " 590" " 3.03" " 0.08" -0.01 0.06
+802 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/164577.txt "A2Vn        " " 9479" " 169" " 4.02" " 0.07" -0.14 0.13
+111 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/16458.txt "G8p...      " " 4484" "  17" " 1.57" " 0.06" -0.53 0.04
+803 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/165029.txt "A0V         " " 9581" " 178" " 3.82" " 0.10" -0.51 0.13
+804 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/165195.txt "K3p         " " 4398" "  30" " 0.78" " 0.10" -2.21 0.06
+805 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/165341.txt "K0V         " " 5232" "  24" " 4.57" " 0.05" " 0.07" 0.05
+806 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/165358.txt "A2V         " " 8948" " 114" " 3.94" " 0.07" -0.25 0.07
+807 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/165401.txt "G0V         " " 5766" "  28" " 4.43" " 0.05" -0.44 0.05
+808 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/165645.txt "F0V         " " 7294" "  38" " 3.99" " 0.05" " 0.02" 0.05
+809 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/165687.txt "K0III       " " 4667" "  23" " 2.56" " 0.08" -0.02 0.05
+810 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/165760.txt "G8III       " " 5029" "  26" " 2.69" " 0.07" " 0.03" 0.06
+811 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/165908.txt "F7V         " " 6013" "  31" " 4.19" " 0.05" -0.56 0.05
+812 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/166014.txt "B9.5V       " 10590 " 250" " 4.17" " 0.08" -0.06 0.15
+813 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/166046.txt "A3V         " " 8326" " 102" " 3.99" " 0.10" -0.18 0.12
+814 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/166161.txt "G5          " " 5064" "  56" " 2.05" " 0.16" -1.44 0.15
+815 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/166207.txt "K0III       " " 4806" "  30" " 2.67" " 0.09" " 0.02" 0.06
+816 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/166208.txt "G8IIICN...  " " 5084" "  29" " 2.71" " 0.07" " 0.10" 0.06
+817 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/166229.txt "K2.5III     " " 4572" "  20" " 2.87" " 0.07" " 0.16" 0.04
+112 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/16673.txt "F6V         " " 6219" "  46" " 4.29" " 0.07" -0.05 0.06
+818 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/167006.txt "M3III       " " 3518" "   5" " 1.16" " 0.11" -0.14 0.04
+819 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/167042.txt "K1III       " " 4959" "  23" " 3.34" " 0.06" -0.01 0.05
+820 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/167588.txt "F8V         " " 5945" "  32" " 4.02" " 0.06" -0.32 0.05
+821 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/167768.txt "G3III       " " 4945" "  28" " 2.32" " 0.08" -0.72 0.07
+822 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/167771.txt "O8/O9       " 37002 " 884" " 3.59" " 0.05" " 0.12" 0.05
+823 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/168009.txt "G2V         " " 5797" "  30" " 4.26" " 0.06" " 0.00" 0.05
+824 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/168092.txt "F1V         " " 7014" "  49" " 4.07" " 0.05" -0.12 0.06
+825 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/168151.txt "F5V         " " 6450" "  37" " 4.18" " 0.05" -0.34 0.05
+826 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/168199.txt "B5V         " 16479 " 318" " 3.80" " 0.10" -0.04 0.09
+827 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/168270.txt "B9V         " 10699 " 151" " 3.97" " 0.06" -0.07 0.08
+828 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/168322.txt "G8.5IIIb    " " 4802" "  29" " 2.49" " 0.09" -0.45 0.07
+829 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/168656.txt "G8III       " " 5062" "  48" " 2.71" " 0.12" -0.11 0.11
+830 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/168720.txt "M0III       " " 3789" "   6" " 1.56" " 0.09" " 0.00" 0.03
+831 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/168723.txt "K0III-IV    " " 4927" "  24" " 3.01" " 0.07" -0.26 0.05
+832 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/168775.txt "K2III       " " 4611" "  21" " 2.43" " 0.07" " 0.12" 0.05
+113 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/16895.txt "F7V         " " 6247" "  35" " 4.21" " 0.06" -0.04 0.05
+833 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/169191.txt "K3III       " " 4377" "  22" " 2.15" " 0.10" -0.18 0.06
+834 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/169305.txt "M2III       " " 3641" "   6" " 1.12" " 0.10" -0.08 0.04
+835 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/169414.txt "K2III       " " 4475" "  19" " 2.62" " 0.08" -0.11 0.04
+836 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/169578.txt "B9V         " 11551 " 199" " 4.07" " 0.08" " 0.07" 0.1
+837 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/170693.txt "K1.5III     " " 4446" "  25" " 2.22" " 0.10" -0.42 0.06
+114 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/17081.txt "B7IV        " 12678 " 164" " 4.12" " 0.05" " 0.24" 0.07
+838 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/171301.txt "B8IV        " 11752 " 142" " 4.08" " 0.04" " 0.05" 0.07
+839 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/171391.txt "G8III       " " 5096" "  29" " 2.85" " 0.07" -0.03 0.06
+840 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/171406.txt "B4Ve        " 15278 " 270" " 3.77" " 0.13" -0.05 0.11
+841 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/172365.txt "F8Ib-II     " " 5992" "  35" " 1.37" " 0.06" " 0.12" 0.06
+842 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/172569.txt "F0V         " " 7317" "  55" " 4.02" " 0.06" " 0.10" 0.06
+843 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/172816.txt "M4III       " " 3155" "  12" " 0.14" " 0.24" -0.44 1.35
+844 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/172958.txt "B8V         " 11251 " 199" " 3.96" " 0.10" -0.05 0.11
+845 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/173087.txt "B5V         " 16182 " 330" " 3.76" " 0.08" -0.07 0.07
+846 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/173399.txt "G5IV        " " 5082" "  27" " 3.15" " 0.07" -0.26 0.06
+847 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/173495.txt "A1V+...     " " 9218" " 185" " 3.84" " 0.10" -0.37 0.12
+115 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/17361.txt "K1.5III     " " 4670" "  20" " 2.64" " 0.07" " 0.05" 0.04
+848 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/173667.txt "F6V         " " 6403" "  29" " 4.05" " 0.04" -0.03 0.04
+116 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/17378.txt "A5Ia        " " 8473" "  43" " 1.20" " 0.03" " 0.05" 0.06
+849 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/173780.txt "K3III       " " 4468" "  19" " 2.42" " 0.08" -0.04 0.05
+850 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/173936.txt "B6V         " 14524 " 250" " 3.81" " 0.08" -0.04 0.08
+117 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/17463.txt "F5Ib...     " " 6919" "  50" " 3.16" " 0.08" " 0.31" 0.05
+851 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/174959.txt "B6IV        " 14832 " 231" " 3.75" " 0.06" " 0.04" 0.06
+118 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/17506.txt "K3Ib...     " " 4200" "  73" " 1.03" " 0.31" " 0.08" 0.17
+852 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/175156.txt "B3II        " 17271 " 454" " 3.09" " 0.09" " 0.07" 0.06
+853 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/175306.txt "G9IIIb      " " 4470" "  26" " 1.92" " 0.10" -0.48 0.07
+854 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/175317.txt "F5/F6IV/V   " " 6479" "  48" " 4.09" " 0.07" " 0.01" 0.06
+855 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/175426.txt "B2.5V       " 17997 " 337" " 3.81" " 0.07" -0.05 0.06
+119 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/17548.txt "F8          " " 5990" "  27" " 4.24" " 0.05" -0.59 0.05
+856 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/175535.txt "G7IIIa      " " 5143" "  43" " 2.74" " 0.11" -0.03 0.1
+857 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/175545.txt "K2III       " " 4511" "  20" " 2.92" " 0.07" " 0.11" 0.04
+858 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/175588.txt "M4II        " " 3333" "   7" " 0.48" " 0.11" -0.04 0.05
+859 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/175640.txt "B9III       " 11515 " 179" " 4.02" " 0.06" " 0.18" 0.08
+860 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/175743.txt "K1III       " " 4708" "  28" " 2.64" " 0.09" " 0.03" 0.06
+861 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/175751.txt "K2III       " " 4749" "  26" " 2.66" " 0.08" " 0.02" 0.06
+862 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/176301.txt "B7III-IV    " 14428 " 265" " 3.75" " 0.10" " 0.14" 0.09
+863 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/176318.txt "B7IV        " 13657 " 273" " 3.70" " 0.16" " 0.12" 0.14
+864 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/176411.txt "K1III       " " 4741" "  30" " 2.69" " 0.09" " 0.13" 0.06
+865 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/176437.txt "B9III       " 11163 " 170" " 4.06" " 0.06" " 0.15" 0.09
+866 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/176582.txt "B5IV        " 16308 " 303" " 3.61" " 0.09" " 0.10" 0.08
+867 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/176819.txt "B2IV-V      " 20461 " 632" " 3.80" " 0.09" -0.05 0.07
+868 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/177178.txt "A4V         " " 7854" "  55" " 3.99" " 0.06" -0.15 0.07
+869 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/177196.txt "A7V         " " 7801" "  49" " 3.97" " 0.05" -0.11 0.06
+870 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/177249.txt "G5.5IIb     " " 5238" "  30" " 2.48" " 0.07" -0.03 0.07
+871 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/177724.txt "A0Vn        " " 9975" " 242" " 3.85" " 0.13" -0.52 0.16
+872 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/177756.txt "B9Vn        " 11239 " 182" " 3.89" " 0.10" -0.08 0.11
+873 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/177817.txt "B7V         " 12786 " 201" " 4.14" " 0.07" " 0.16" 0.08
+874 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/177940.txt "M7IIIevar   " " 3092" "  23" " 0.59" " 0.54" -1.00 0.0
+875 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/178125.txt "B8III       " 12287 " 163" " 4.18" " 0.05" " 0.13" 0.08
+876 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/178187.txt "A4III       " " 8176" "  63" " 3.77" " 0.07" -0.03 0.06
+877 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/178266.txt "K5          " " 4381" "  34" " 2.68" " 0.15" " 0.10" 0.08
+878 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/178329.txt "B3V         " 17571 " 399" " 3.78" " 0.07" -0.05 0.05
+879 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/178717.txt "K3.5III:    " " 4071" "  37" " 1.13" " 0.25" -0.13 0.12
+120 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/17925.txt "K1V         " " 5174" "  25" " 4.63" " 0.05" " 0.16" 0.05
+880 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/179588.txt "B9IV        " 11165 " 225" " 4.05" " 0.06" " 0.00" 0.1
+881 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/179761.txt "B8II-III    " 14325 " 254" " 3.66" " 0.07" " 0.14" 0.07
+882 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/180006.txt "G8III       " " 4996" "  27" " 2.73" " 0.07" " 0.17" 0.06
+883 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/180028.txt "F6Ib        " " 6287" "  38" " 1.65" " 0.07" " 0.14" 0.07
+884 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/180163.txt "B2.5IV      " 18946 " 401" " 3.69" " 0.06" " 0.02" 0.04
+885 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/180554.txt "B4IV        " 16787 " 287" " 3.74" " 0.07" " 0.00" 0.06
+886 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/180610.txt "K2III       " " 4539" "  20" " 2.79" " 0.07" " 0.06" 0.04
+887 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/180711.txt "G9III       " " 4872" "  25" " 2.61" " 0.07" -0.17 0.06
+888 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/180890.txt "G5          " " 5580" "  28" " 4.40" " 0.06" " 0.20" 0.05
+889 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/180928.txt "K4III       " " 4074" "  16" " 2.04" " 0.12" -0.57 0.07
+890 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/180968.txt "B0.5IV      " 24093 1595 " 3.44" " 0.11" -0.08 0.1
+891 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/181096.txt "F6IV:       " " 6318" "  34" " 4.03" " 0.05" -0.20 0.05
+892 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/181276.txt "G9III       " " 5012" "  25" " 2.87" " 0.06" " 0.04" 0.05
+893 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/182293.txt "K3IVp       " " 4445" "  20" " 2.89" " 0.08" " 0.01" 0.05
+894 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/182490.txt "A2III-IV    " " 8548" "  92" " 3.69" " 0.10" " 0.05" 0.07
+895 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/182568.txt "B3IV        " 18634 " 345" " 3.72" " 0.08" " 0.00" 0.05
+896 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/182572.txt "G8IV...     " " 5542" "  30" " 4.03" " 0.06" " 0.37" 0.05
+897 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/182761.txt "A0V         " " 9806" " 213" " 3.83" " 0.12" -0.44 0.14
+898 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/182762.txt "K0III       " " 4894" "  37" " 2.63" " 0.10" -0.10 0.08
+121 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/18296.txt "B9p...      " 12326 " 197" " 4.02" " 0.11" " 0.90" 0.08
+899 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/183085.txt "F0          " " 7138" "  45" " 3.93" " 0.06" -0.11 0.06
+900 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/183144.txt "B4III       " 16482 " 300" " 3.77" " 0.12" " 0.06" 0.09
+122 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/18322.txt "K1III       " " 4642" "  20" " 2.58" " 0.07" -0.12 0.04
+901 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/183324.txt "A0V         " 10300 "    " " 4.17" "     " -1.22 
+902 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/184266.txt "F2V         " " 6014" "  53" " 3.72" " 0.10" -1.03 0.1
+903 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/184406.txt "K3IIIb      " " 4428" "  19" " 2.83" " 0.08" " 0.04" 0.05
+123 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/18449.txt "K2III       " " 4403" "  22" " 2.21" " 0.10" -0.12 0.06
+904 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/184499.txt "G0V         " " 5762" "  34" " 4.13" " 0.07" -0.54 0.06
+124 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/18474.txt "G5:III...   " " 5038" "  49" " 2.59" " 0.14" -0.28 0.13
+905 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/184875.txt "A2V         " " 8933" "  83" " 4.06" " 0.05" -0.24 0.06
+906 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/184915.txt "B0.5III     " 25817 1967 " 3.40" " 0.11" -0.16 0.12
+907 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/184930.txt "B5III       " 14431 " 229" " 3.72" " 0.07" " 0.09" 0.07
+908 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/185351.txt "G9IIIbCN... " " 5062" "  25" " 3.34" " 0.06" " 0.06" 0.05
+909 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/185423.txt "B3III       " 19169 " 513" " 3.52" " 0.10" " 0.05" 0.06
+910 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/185644.txt "K1III       " " 4623" "  22" " 2.66" " 0.07" " 0.03" 0.05
+911 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/185657.txt "G6V         " " 4887" "  23" " 2.66" " 0.07" -0.16 0.05
+912 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/185859.txt "B0.5Iae     " 27238 1708 " 3.36" " 0.09" -0.04 0.06
+913 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/186307.txt "A6V         " " 7962" "  63" " 4.12" " 0.05" -0.20 0.07
+914 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/186377.txt "A5III       " " 8677" "  70" " 2.71" " 0.06" -0.20 0.06
+915 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/186408.txt "G1.5Vb      " " 5750" "  81" " 4.04" " 0.20" " 0.04" 0.13
+916 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/186486.txt "G8III       " " 5077" "  26" " 2.72" " 0.07" " 0.02" 0.06
+917 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/186619.txt "M0III       " " 3829" "   8" " 1.65" " 0.10" " 0.00" 0.04
+918 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/186648.txt "K0III       " " 4775" "  25" " 2.58" " 0.08" -0.07 0.06
+919 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/186675.txt "G7III       " " 5042" "  26" " 2.64" " 0.07" -0.03 0.06
+920 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/187013.txt "F7V         " " 6336" "  28" " 4.11" " 0.04" -0.08 0.04
+921 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/187111.txt "G8wvar...   " " 4453" "  24" " 1.03" " 0.09" -1.69 0.07
+922 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/187340.txt "A2III       " " 8579" "  76" " 3.25" " 0.09" -0.05 0.06
+923 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/187428.txt "F8Ib-II     " " 5904" "  57" " 2.13" " 0.14" " 0.05" 0.12
+924 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/187459.txt "B0.5Ibe...  " 26556 1934 " 3.30" " 0.10" -0.02 0.09
+125 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/18768.txt "F8          " " 5805" "  46" " 3.89" " 0.09" -0.54 0.08
+925 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/187691.txt "F8V         " " 6069" "  30" " 4.12" " 0.05" " 0.10" 0.04
+126 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/18778.txt "A7III-IV    " " 7763" "  68" " 3.89" " 0.06" " 0.06" 0.06
+926 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/187796.txt "S...        " " 3148" "  36" " 0.49" " 0.64" -1.00 0.0
+927 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/187811.txt "B2.5Ve      " 18859 " 772" " 3.36" " 0.14" -0.01 0.1
+928 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/187929.txt "F6Iab:      " " 6169" "  43" " 1.43" " 0.08" " 0.13" 0.08
+929 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/187961.txt "B7V         " 11710 " 315" " 2.37" " 0.08" -0.11 0.17
+930 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/187983.txt "A1Ia        " 10092 " 123" " 1.66" " 0.04" " 0.19" 0.09
+931 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/188001.txt "O8e         " 36490 1025 " 3.21" " 0.05" -0.11 0.08
+932 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/188119.txt "G8III       " " 4939" "  28" " 2.43" " 0.08" -0.48 0.07
+933 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/188209.txt "O9.5Ib      " 31910 1374 " 3.36" " 0.08" " 0.00" 0.06
+934 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/188260.txt "B9.5III     " 10363 " 166" " 4.01" " 0.06" -0.11 0.08
+935 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/188310.txt "G9IIIb      " " 4703" "  23" " 2.54" " 0.08" -0.24 0.05
+936 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/188350.txt "A0III       " 10115 " 158" " 3.88" " 0.08" -0.23 0.1
+937 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/188485.txt "A0III       " 10124 " 186" " 3.93" " 0.08" -0.28 0.11
+938 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/188728.txt "A1IV        " " 9177" " 176" " 3.67" " 0.16" " 0.01" 0.11
+939 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/188947.txt "K0III       " " 4863" "  24" " 2.71" " 0.07" " 0.04" 0.05
+940 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/189319.txt "M0III       " " 3913" "   9" " 1.63" " 0.10" " 0.13" 0.03
+941 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/189558.txt "G0/G1V      " " 5702" "  37" " 3.87" " 0.08" -1.08 0.08
+942 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/189944.txt "B4V         " 15639 " 305" " 3.69" " 0.07" " 0.03" 0.06
+943 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/190004.txt "F2III       " " 6944" "  46" " 3.80" " 0.06" " 0.27" 0.05
+944 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/190172.txt "F4III       " " 7032" "  42" " 4.04" " 0.05" " 0.05" 0.05
+945 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/190390.txt "F1III       " " 6786" "  71" " 3.93" " 0.08" -0.63 0.11
+946 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/190608.txt "K2III       " " 4722" "  22" " 2.96" " 0.07" " 0.00" 0.05
+947 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/190993.txt "B3V         " 17316 " 407" " 3.85" " 0.10" -0.14 0.09
+948 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/191026.txt "K0IV        " " 5186" "  26" " 3.84" " 0.06" " 0.05" 0.05
+949 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/191046.txt "K0III       " " 4468" "  24" " 1.79" " 0.10" -0.67 0.07
+950 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/191243.txt "B5Ib        " 16697 " 547" " 2.86" " 0.09" -0.02 0.08
+951 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/191277.txt "K3III       " " 4444" "  21" " 2.85" " 0.08" " 0.15" 0.05
+952 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/191372.txt "M3IIIa      " " 3566" "   6" " 1.02" " 0.12" -0.02 0.04
+953 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/191610.txt "B2.5Ve      " 19332 1371 " 3.25" " 0.20" -0.09 0.17
+954 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/191615.txt "G8IV        " " 4764" "  24" " 2.54" " 0.08" -0.35 0.06
+955 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/191639.txt "B1V         " 20368 1297 " 2.82" " 0.10" -0.39 0.19
+9 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/1918.txt "G9III       " " 4896" "  33" " 2.47" " 0.10" -0.42 0.08
+956 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/192276.txt "B7V         " 12601 " 249" " 4.08" " 0.08" " 0.14" 0.1
+957 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/192425.txt "A2V         " " 8804" "  95" " 4.07" " 0.07" -0.48 0.1
+958 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/192685.txt "B3V         " 18754 " 735" " 3.49" " 0.15" -0.10 0.12
+959 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/192944.txt "G8III       " " 5045" "  27" " 2.55" " 0.07" -0.05 0.06
+960 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/193322.txt "O9V         " 35940 1068 " 3.85" " 0.08" " 0.06" 0.07
+961 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/193432.txt "B9IV        " 10069 " 165" " 3.82" " 0.08" -0.15 0.08
+962 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/193536.txt "B2V         " 19796 " 787" " 3.72" " 0.15" " 0.02" 0.1
+963 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/193621.txt "A0III       " " 9587" " 336" " 2.94" " 0.14" -0.52 0.29
+964 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/194013.txt "G8III-IV    " " 4958" "  27" " 2.72" " 0.07" -0.06 0.06
+965 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/194093.txt "F8Iab:      " " 6360" "  16" " 0.91" " 0.02" " 0.18" 0.02
+127 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/19476.txt "K0III       " " 4978" "  25" " 2.97" " 0.06" " 0.14" 0.05
+966 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/194960.txt "K0III       " " 4797" "  77" " 2.58" " 0.24" -0.15 0.18
+128 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/19510.txt "F0.5        " " 6108" "  55" " 3.91" " 0.09" -2.13 0.13
+967 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/195135.txt "K2III       " " 4604" "  24" " 2.67" " 0.08" " 0.16" 0.05
+968 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/195324.txt "A1Ib        " " 9997" " 121" " 1.89" " 0.04" -0.06 0.09
+969 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/195506.txt "K2III       " " 4418" "  20" " 2.57" " 0.09" -0.32 0.05
+970 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/195633.txt "G0Vw        " " 6102" "  40" " 4.10" " 0.07" -0.55 0.07
+971 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/195725.txt "A7III       " " 7702" "  62" " 3.66" " 0.07" " 0.27" 0.06
+972 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/195810.txt "B6III       " 14355 " 321" " 3.71" " 0.09" " 0.08" 0.1
+973 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/196504.txt "B9V         " 10791 " 244" " 3.89" " 0.14" -0.27 0.15
+129 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/19656.txt "K0III       " " 4684" "  21" " 2.33" " 0.07" -0.05 0.05
+974 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/196610.txt "M6III       " " 3100" "  14" " 0.39" " 0.29" -1.00 0.0
+10 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/1967.txt "Se...       " " 3630" "  41" " 0.38" " 0.52" -1.00 0.0
+975 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/196740.txt "B5IV        " 15427 " 282" " 3.77" " 0.14" " 0.02" 0.11
+976 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/196758.txt "K1III       " " 4804" "  27" " 2.63" " 0.08" " 0.06" 0.06
+977 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/196777.txt "M1III       " " 3629" "   7" " 1.12" " 0.14" -0.08 0.05
+978 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/196787.txt "G9III       " " 4949" "  29" " 2.51" " 0.08" " 0.05" 0.07
+979 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/196867.txt "B9IV        " 10705 " 173" " 4.05" " 0.06" -0.06 0.1
+980 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/197812.txt "M5Iab:      " " 3119" "  13" " 0.32" " 0.24" -1.00 0.0
+130 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/19787.txt "K2III       " " 4869" "  24" " 2.79" " 0.07" " 0.10" 0.05
+981 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/197912.txt "G9.5III     " " 4774" "  25" " 2.46" " 0.08" -0.11 0.06
+982 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/197939.txt "M3III       " " 3438" "   7" " 0.77" " 0.14" -0.05 0.05
+983 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/197964.txt "K1IV        " " 4762" "  22" " 2.96" " 0.07" " 0.09" 0.05
+984 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/198001.txt "A1V         " " 9320" " 131" " 3.81" " 0.08" -0.31 0.09
+985 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/198084.txt "F8IV-V      " " 6091" "  32" " 3.96" " 0.06" " 0.11" 0.04
+986 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/198149.txt "K0IV        " " 4962" "  34" " 3.12" " 0.10" -0.28 0.08
+987 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/198183.txt "B5Ve        " 15629 " 315" " 3.81" " 0.10" -0.05 0.09
+988 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/198345.txt "K5III       " " 4037" "  16" " 1.96" " 0.13" -0.07 0.06
+989 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/198390.txt "F5V         " " 6424" "  32" " 4.18" " 0.04" -0.32 0.05
+990 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/199081.txt "B5V         " 15703 " 352" " 3.80" " 0.10" -0.11 0.1
+991 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/199191.txt "GIII+...    " " 4813" "  32" " 2.77" " 0.10" -0.61 0.07
+992 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/199253.txt "K0III       " " 4669" "  25" " 2.21" " 0.08" -0.14 0.06
+993 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/199478.txt "B8Iae       " 15983 " 788" " 2.48" " 0.11" -0.14 0.17
+994 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/199870.txt "K0IIIbCN... " " 4988" "  33" " 2.96" " 0.08" " 0.13" 0.07
+131 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/19994.txt "F8V         " " 6081" "  29" " 4.05" " 0.05" " 0.15" 0.04
+995 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/199960.txt "G1V         " " 5852" "  32" " 4.12" " 0.06" " 0.23" 0.05
+996 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/200527.txt "M4s...      " " 3365" "   9" " 0.52" " 0.15" -0.07 0.06
+997 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/200790.txt "F8V         " " 6145" "  46" " 3.99" " 0.08" " 0.02" 0.06
+132 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/20084.txt "G3IIp+...   " " 5006" "  39" " 2.22" " 0.11" -0.68 0.1
+998 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/201099.txt "G0          " " 5942" "  41" " 4.14" " 0.08" -0.44 0.07
+133 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/20123.txt "G5Iab:      " " 5268" "  29" " 1.59" " 0.06" -0.11 0.07
+999 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/201381.txt "G8III       " " 5014" "  31" " 2.85" " 0.08" -0.02 0.07
+1000 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/201626.txt "G9p         " " 4818" " 111" " 1.88" " 0.39" -1.71 0.27
+1001 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/201889.txt "G1V         " " 5711" "  49" " 4.23" " 0.10" -0.73 0.1
+1002 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/201891.txt "F8V-VI      " " 5818" "  52" " 4.13" " 0.11" -1.05 0.11
+1003 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/202259.txt "M1III       " " 3748" "   9" " 1.39" " 0.14" -0.10 0.05
+1004 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/202573.txt "G5V:        " " 4929" "  37" " 2.40" " 0.11" -0.64 0.09
+1005 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/202850.txt "B9Iab       " 11839 " 256" " 2.05" " 0.06" " 0.15" 0.13
+1006 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/202904.txt "B2Vne       " 16758 " 637" " 2.90" " 0.10" -0.36 0.16
+1007 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/203344.txt "K1III       " " 4683" "  27" " 2.54" " 0.09" -0.20 0.06
+1008 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/203387.txt "G8III       " " 5136" "  34" " 2.82" " 0.09" -0.06 0.07
+1009 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/203504.txt "K1III       " " 4671" "  24" " 2.59" " 0.08" " 0.01" 0.05
+1010 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/203525.txt "M0III       " " 3951" "  14" " 1.74" " 0.14" -0.10 0.06
+1011 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/204306.txt "F5          " " 6050" "  53" " 4.12" " 0.09" -0.58 0.09
+1012 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/204363.txt "F7V         " " 6220" "  76" " 4.29" " 0.11" -0.34 0.12
+1013 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/204445.txt "M1          " " 3574" "   6" " 1.19" " 0.12" " 0.01" 0.04
+1014 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/204543.txt "G0          " " 4612" "  48" " 1.20" " 0.16" -1.93 0.12
+1015 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/204613.txt "G1IIIa:     " " 5734" "  61" " 3.85" " 0.13" -0.35 0.11
+1016 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/204642.txt "K2III       " " 4664" "  24" " 2.94" " 0.08" " 0.03" 0.05
+134 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/20468.txt "K2II        " " 4387" "  25" " 1.39" " 0.08" " 0.04" 0.06
+1017 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/204771.txt "K0III       " " 4966" "  31" " 2.92" " 0.08" " 0.06" 0.07
+1018 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/204867.txt "G0Ib        " " 5705" "  31" " 1.06" " 0.05" " 0.03" 0.05
+1019 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/205021.txt "B2IIIevar   " 24636 1275 " 3.64" " 0.10" -0.01 0.05
+1020 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/205139.txt "B1II        " 26810 2110 " 3.98" " 0.13" -0.12 0.1
+1021 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/205435.txt "G8III       " " 5088" "  33" " 2.90" " 0.09" -0.16 0.07
+1022 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/205512.txt "K1III       " " 4696" "  33" " 2.52" " 0.12" -0.03 0.08
+1023 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/205637.txt "B3V:p       " 19106 1130 " 3.07" " 0.13" -0.08 0.14
+1024 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/206067.txt "K0III       " " 4801" "  28" " 2.60" " 0.08" -0.09 0.06
+1025 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/206078.txt "G8III       " " 4811" "  30" " 2.62" " 0.10" -0.56 0.07
+1026 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/206165.txt "B2Ib        " 20569 "    " " 2.93" "     " -0.28 
+135 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/20618.txt "G6IV        " " 5093" "  26" " 3.14" " 0.07" -0.25 0.06
+1027 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/206267.txt "O6e         " 40926 " 943" " 3.87" " 0.04" " 0.11" 0.03
+1028 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/206453.txt "G8III       " " 5033" "  37" " 2.48" " 0.10" -0.43 0.09
+1029 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/206632.txt "M4III:      " " 3197" "  10" " 0.33" " 0.18" -0.30 0.11
+1030 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/206936.txt "M2Iae       " " 3784" "  16" " 0.04" " 0.11" " 0.05" 0.07
+1031 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/206952.txt "K1III       " " 4713" "  29" " 2.73" " 0.09" " 0.19" 0.06
+1032 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/207089.txt "K0Iab:      " " 4437" "  38" " 1.11" " 0.11" " 0.03" 0.08
+1033 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/207130.txt "K1III       " " 4795" "  31" " 2.71" " 0.09" " 0.11" 0.07
+1034 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/207134.txt "K3III:      " " 4429" "  24" " 2.41" " 0.12" -0.06 0.07
+1035 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/207330.txt "B3III       " 20662 " 626" " 3.78" " 0.08" -0.02 0.05
+1036 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/207516.txt "B8V         " 11629 " 228" " 4.07" " 0.08" " 0.04" 0.12
+136 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/20797.txt "M0Iab:      " " 3918" "  14" " 0.48" " 0.08" " 0.17" 0.04
+1037 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/207978.txt "F6IV-Vwvar  " " 6316" "  64" " 4.16" " 0.07" -0.56 0.09
+1038 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/208110.txt "G0IIIs      " " 5011" "  47" " 2.25" " 0.14" -1.09 0.12
+1039 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/208202.txt "K0III+...   " " 5007" "  31" " 2.88" " 0.08" -0.04 0.07
+1040 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/208501.txt "B8Ib        " 15827 " 632" " 2.60" " 0.09" -0.11 0.12
+1041 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/208906.txt "F8V-VI      " " 6035" "  52" " 4.30" " 0.08" -0.72 0.1
+137 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/20893.txt "K3III       " " 4379" "  22" " 2.29" " 0.10" " 0.09" 0.05
+1042 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/208947.txt "B2V         " 19417 " 851" " 3.83" " 0.21" -0.04 0.14
+138 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/20902.txt "F5Iab:      " " 6490" "  13" " 1.74" " 0.03" " 0.14" 0.02
+1043 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/209409.txt "B7IVe       " 12221 " 289" " 2.62" " 0.08" -0.16 0.15
+1044 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/209419.txt "B5III       " 15357 " 369" " 3.73" " 0.08" " 0.06" 0.07
+1045 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/209819.txt "B8V         " 11258 " 226" " 4.09" " 0.08" -0.08 0.12
+1046 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/210295.txt "G8/K0w...   " " 4877" "  55" " 2.20" " 0.19" -1.29 0.14
+1047 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/210752.txt "G0          " " 5943" "  41" " 4.29" " 0.07" -0.63 0.08
+1048 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/210807.txt "G7II-III    " " 5104" "  36" " 2.46" " 0.09" -0.11 0.08
+1049 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/210839.txt "O6Iab:...   " 38903 " 866" " 3.41" " 0.05" " 0.03" 0.06
+1050 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/210855.txt "F8V         " " 6210" "  43" " 3.89" " 0.08" " 0.13" 0.06
+1051 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/210889.txt "K2III       " " 4615" "  25" " 2.60" " 0.09" " 0.02" 0.05
+1052 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/210939.txt "K1III       " " 4546" "  25" " 2.28" " 0.09" -0.02 0.06
+1053 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/211391.txt "G8III       " " 5021" "  32" " 2.77" " 0.08" " 0.15" 0.07
+1054 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/212496.txt "G8.5IIIb    " " 4761" "  27" " 2.57" " 0.09" -0.35 0.06
+1055 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/212571.txt "B1Ve        " 23278 1230 " 3.53" " 0.10" -0.02 0.08
+11 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/2126.txt "K0III-IV    " " 4775" "  28" " 2.79" " 0.09" -0.34 0.06
+1056 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/212943.txt "K0III       " " 4676" "  25" " 2.76" " 0.08" -0.28 0.05
+1057 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/212978.txt "B2V         " 20855 " 700" " 3.81" " 0.11" -0.03 0.07
+1058 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/213660.txt "A6V         " " 8118" " 126" " 3.86" " 0.13" -0.15 0.16
+1059 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/214376.txt "K2III       " " 4646" "  26" " 2.63" " 0.09" " 0.12" 0.06
+1060 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/214567.txt "G8II        " " 4987" "  37" " 2.63" " 0.10" -0.26 0.09
+1061 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/214923.txt "B8V         " 11597 " 185" " 3.93" " 0.10" " 0.06" 0.1
+1062 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/215373.txt "K0III       " " 5080" "  32" " 2.85" " 0.08" " 0.16" 0.07
+1063 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/215648.txt "F7V         " " 6187" "  42" " 4.04" " 0.07" -0.26 0.06
+1064 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/215721.txt "G8III       " " 4907" "  42" " 2.49" " 0.13" -0.46 0.1
+1065 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/216131.txt "G8III       " " 5022" "  24" " 2.76" " 0.06" -0.09 0.05
+1066 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/216143.txt "G5          " " 4606" "  48" " 1.21" " 0.16" -2.09 0.11
+1067 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/216174.txt "K1III       " " 4390" "  24" " 1.99" " 0.11" -0.51 0.07
+1068 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/216219.txt "G0IIp       " " 5755" "  50" " 3.29" " 0.11" -0.28 0.09
+1069 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/216228.txt "K0III       " " 4795" "  28" " 2.58" " 0.08" -0.02 0.06
+1070 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/216385.txt "F7IV        " " 6266" "  95" " 4.08" " 0.15" -0.18 0.13
+1071 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/216640.txt "K1III       " " 4628" "  25" " 3.17" " 0.08" " 0.16" 0.05
+1072 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/217014.txt "G2.5IVa     " " 5756" "  36" " 4.23" " 0.07" " 0.20" 0.05
+1073 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/217675.txt "B6IIIpe+... " 14491 " 435" " 2.95" " 0.10" " 0.03" 0.14
+1074 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/217906.txt "M2.5II-III  " " 3455" "   6" " 1.03" " 0.12" -0.16 0.05
+1075 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/218029.txt "K3III       " " 4437" "  22" " 2.34" " 0.09" " 0.18" 0.05
+1076 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/218031.txt "K0IIIb      " " 4758" "  31" " 2.50" " 0.10" -0.16 0.07
+1077 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/218101.txt "G8IV        " " 5220" "  37" " 3.76" " 0.08" " 0.10" 0.07
+1078 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/218470.txt "F5V         " " 6497" "  49" " 4.12" " 0.06" -0.13 0.06
+1079 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/218502.txt "F3:w        " " 6137" "  48" " 4.05" " 0.07" -1.85 0.13
+1080 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/218504.txt "G1/G2w...   " " 5965" "  53" " 4.21" " 0.09" -0.58 0.1
+1081 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/218857.txt "G6w         " " 5055" "  75" " 2.39" " 0.23" -1.92 0.17
+1082 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/218935.txt "G8III-IV    " " 4924" "  29" " 2.99" " 0.08" -0.16 0.06
+1083 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/219134.txt "K3V         " " 4700" "  30" " 4.58" " 0.07" " 0.02" 0.06
+1084 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/219449.txt "K0III       " " 4690" "  25" " 2.59" " 0.08" " 0.00" 0.05
+1085 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/219615.txt "G9III:      " " 4886" "  32" " 2.45" " 0.10" -0.58 0.08
+1086 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/219945.txt "K0III       " " 4845" "  31" " 2.55" " 0.09" -0.15 0.07
+1087 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/219962.txt "K1III       " " 4656" "  25" " 2.56" " 0.08" -0.04 0.06
+1088 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/220009.txt "K2III       " " 4334" "  23" " 2.04" " 0.12" -0.69 0.07
+1089 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/220117.txt "F5V         " " 6428" "  44" " 4.02" " 0.07" " 0.03" 0.05
+139 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/22049.txt "K2V         " " 5119" "  26" " 4.71" " 0.05" " 0.00" 0.05
+1090 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/220575.txt "B8III       " 13014 " 289" " 3.21" " 0.12" " 0.11" 0.14
+1091 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/220825.txt "A0p...      " 10375 " 161" " 3.78" " 0.14" " 0.74" 0.09
+1092 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/220954.txt "K1III       " " 4759" "  28" " 2.63" " 0.09" " 0.07" 0.06
+1093 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/221115.txt "G7III       " " 5045" "  29" " 2.83" " 0.07" " 0.06" 0.06
+1094 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/221148.txt "K3IIIvar    " " 4635" "  31" " 3.32" " 0.09" " 0.34" 0.06
+1095 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/221170.txt "G2IV        " " 4582" "  46" " 1.21" " 0.16" -2.03 0.11
+1096 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/221345.txt "G8III       " " 4696" "  27" " 2.49" " 0.09" -0.30 0.06
+1097 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/221615.txt "M5III       " " 3234" "   8" " 0.44" " 0.15" -0.22 0.08
+1098 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/221830.txt "F9V         " " 5676" "  51" " 4.09" " 0.10" -0.46 0.09
+1099 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/221861.txt "G9Ib        " " 4605" "  41" " 0.96" " 0.07" " 0.08" 0.08
+1100 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/222107.txt "G8III       " " 4679" "  24" " 2.86" " 0.08" -0.48 0.05
+140 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/22211.txt "G0          " " 6018" "  49" " 3.42" " 0.11" " 0.20" 0.07
+1101 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/222368.txt "F7V         " " 6200" "  42" " 4.12" " 0.07" -0.12 0.06
+1102 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/222404.txt "K1IV        " " 4782" "  31" " 3.25" " 0.09" " 0.08" 0.06
+1103 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/222439.txt "B9IVn       " 10733 " 247" " 3.87" " 0.13" -0.32 0.15
+1104 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/222574.txt "G2Ib/II     " " 5536" "  34" " 1.69" " 0.07" " 0.03" 0.07
+1105 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/223047.txt "G5Ib+...    " " 5015" "  35" " 1.32" " 0.06" " 0.04" 0.07
+1106 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/223075.txt "CII...      " " 3867" "  90" " 1.03" " 0.80" -0.01 0.33
+1107 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/223165.txt "K1III       " " 4728" "  29" " 2.50" " 0.09" " 0.06" 0.06
+1108 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/223252.txt "G8III       " " 5034" "  35" " 2.76" " 0.09" -0.05 0.08
+1109 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/223385.txt "A3Iae       " 10142 " 200" " 1.41" " 0.07" " 0.46" 0.14
+1110 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/223460.txt "G1IIIe      " " 5383" "  42" " 2.92" " 0.10" -0.17 0.09
+1111 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/223869.txt "K1III       " " 4868" "  30" " 3.31" " 0.08" -0.07 0.06
+1112 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/224458.txt "G8III       " " 4829" "  49" " 2.39" " 0.12" -0.45 0.11
+1113 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/224533.txt "G9III       " " 5054" "  32" " 2.78" " 0.08" -0.04 0.07
+141 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/22468.txt "K2:Vnk      " " 4748" "  50" " 3.42" " 0.14" -0.16 0.1
+1114 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/224801.txt "B9p...      " 12783 " 169" " 4.19" " 0.08" " 0.98" 0.07
+142 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/22484.txt "F9IV-V      " " 5999" "  27" " 4.09" " 0.05" -0.08 0.04
+1115 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/224926.txt "B7III-IV    " 13068 " 224" " 4.13" " 0.08" " 0.37" 0.09
+1116 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/224930.txt "G5Vb        " " 5427" "  39" " 4.34" " 0.08" -0.80 0.09
+1117 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/225132.txt "B9IVn       " 10797 " 449" " 4.24" " 0.14" " 0.00" 0.24
+1118 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/225180.txt "A1III       " " 9561" " 235" " 2.73" " 0.09" -0.47 0.17
+1119 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/225212.txt "K3Iab:      " " 4183" "  23" " 0.81" " 0.09" " 0.22" 0.05
+1120 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/225239.txt "G2V         " " 5652" "  50" " 3.84" " 0.11" -0.47 0.09
+143 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/23183.txt "G8III       " " 4866" "  25" " 2.51" " 0.07" -0.28 0.06
+1121 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/232078.txt "K3IIp       " " 4028" "  15" " 0.53" " 0.08" -1.21 0.06
+144 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/23249.txt "K0IV        " " 5053" "  25" " 3.79" " 0.06" " 0.09" 0.05
+1122 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/233891.txt "G5IIIw      " " 4772" "  45" " 1.55" " 0.15" -1.56 0.12
+1123 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/237846.txt "F8          " " 4987" "  64" " 2.12" " 0.19" -2.55 0.13
+1124 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/237903.txt "K7V         " " 4068" "  14" " 4.71" " 0.05" -0.35 0.06
+145 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/23841.txt "K1III       " " 4338" "  19" " 2.23" " 0.09" -0.56 0.06
+146 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/24398.txt "B1Iab:      " 24163 2079 " 3.27" " 0.12" -0.08 0.07
+147 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/24421.txt "F5          " " 6117" "  48" " 4.17" " 0.08" -0.35 0.08
+12 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/2454.txt "F6Vawvar    " " 6492" "  42" " 4.12" " 0.05" -0.29 0.06
+148 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/24760.txt "B0.5V+...   " 26405 1549 " 3.85" " 0.13" -0.09 0.1
+0 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/249.txt "K1IV        " " 4757" "  28" " 2.88" " 0.09" -0.29 0.06
+149 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/25173.txt "F8V         " " 6018" "  36" " 4.07" " 0.06" -0.55 0.06
+150 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/25291.txt "F0II        " " 7761" "    " " 2.49" "     " " 0.14" 
+151 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/25329.txt "K1V...      " " 4840" "    " " 4.85" "     " -1.68 
+152 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/25457.txt "F5V         " " 6228" "  44" " 4.29" " 0.07" " 0.04" 0.06
+153 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/25604.txt "K0III       " " 4795" "  21" " 2.65" " 0.06" " 0.06" 0.05
+154 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/25621.txt "F6IV        " " 6251" "  29" " 3.98" " 0.05" " 0.05" 0.04
+155 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/25642.txt "A0IVn       " 10585 " 166" " 4.05" " 0.07" " 0.01" 0.1
+156 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/25940.txt "B3Ve        " 16827 " 427" " 3.94" " 0.08" -0.04 0.08
+157 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/25975.txt "K1III       " " 4986" "  23" " 3.47" " 0.06" " 0.05" 0.05
+13 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/2628.txt "A7III       " " 7305" "  56" " 3.98" " 0.06" -0.07 0.06
+158 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/26297.txt "G5/G6IVw    " " 4468" "  25" " 1.01" " 0.09" -1.82 0.07
+159 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/26574.txt "F2II-III    " " 7132" "  42" " 3.70" " 0.06" " 0.21" 0.05
+14 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/2665.txt "G5IIIw      " " 4942" "  62" " 2.12" " 0.20" -2.03 0.14
+160 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/26965.txt "K1V         " " 5108" "  26" " 4.49" " 0.05" -0.29 0.05
+161 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/27022.txt "G5IIb       " " 5321" "  29" " 2.91" " 0.07" -0.05 0.06
+162 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/27295.txt "B9IV        " 11956 "    " " 3.92" "     " -0.95 
+163 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/27348.txt "G8III       " " 5045" "  24" " 2.88" " 0.06" " 0.04" 0.05
+164 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/27371.txt "K0III       " " 5016" "  25" " 2.84" " 0.06" " 0.15" 0.05
+165 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/27382.txt "K1III       " " 4501" "  19" " 2.28" " 0.07" -0.36 0.05
+166 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/27697.txt "K0III       " " 5023" "  26" " 2.83" " 0.07" " 0.15" 0.06
+15 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/2796.txt "Fw          " " 4879" "  85" " 1.82" " 0.26" -2.25 0.19
+167 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/27971.txt "K1III       " " 4979" "  25" " 2.90" " 0.06" " 0.10" 0.05
+168 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/28099.txt "G2V         " " 5815" "  31" " 4.47" " 0.06" " 0.21" 0.05
+169 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/28100.txt "G7IIIa      " " 4986" "  25" " 2.38" " 0.07" -0.17 0.06
+170 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/28292.txt "K2III       " " 4557" "  19" " 2.66" " 0.07" -0.09 0.04
+171 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/28305.txt "G9.5III     " " 4978" "  27" " 2.77" " 0.07" " 0.20" 0.06
+172 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/28307.txt "K0IIIb      " " 5078" "  28" " 2.97" " 0.07" " 0.18" 0.06
+173 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/28527.txt "A6IV        " " 7757" "  58" " 3.85" " 0.06" " 0.13" 0.05
+16 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/2857.txt "A2          " " 7776" "    " " 3.19" "     " -1.70 
+174 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/28978.txt "A2Vs        " " 8910" "  83" " 3.13" " 0.09" -0.26 0.08
+175 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/29139.txt "K5III       " " 3863" "   8" " 1.73" " 0.10" -0.04 0.04
+17 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/2952.txt "K0III       " " 4800" "  35" " 2.61" " 0.11" -0.09 0.08
+176 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/29574.txt G8/K0IIIw... " 4306" "  34" " 0.58" " 0.12" -1.90 0.07
+177 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/29613.txt "K0III       " " 4682" "  21" " 2.78" " 0.07" -0.24 0.05
+178 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/29645.txt "G0V         " " 5989" "  32" " 4.03" " 0.06" " 0.11" 0.05
+179 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/29763.txt "B3V         " 10073 " 198" " 2.60" " 0.07" -0.51 0.16
+180 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/30562.txt "F8V         " " 5839" "  28" " 4.03" " 0.06" " 0.20" 0.04
+181 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/30614.txt "O9.5Iae     " 32591 " 806" " 3.17" " 0.04" -0.10 0.05
+182 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/30652.txt "F6V         " " 6419" "  29" " 4.20" " 0.04" -0.02 0.04
+183 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/30739.txt "A1Vn        " " 9457" " 128" " 4.00" " 0.05" -0.20 0.1
+184 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/30743.txt "F3/F5V      " " 6372" "  30" " 4.18" " 0.04" -0.41 0.04
+185 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/30812.txt "K1III       " " 4746" "  26" " 2.58" " 0.08" -0.08 0.06
+186 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/30814.txt "K0III       " " 4926" "  24" " 2.75" " 0.07" " 0.03" 0.05
+187 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/30834.txt "K3III       " " 4223" "  18" " 1.63" " 0.10" -0.27 0.05
+188 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/31295.txt "A0V         " " 8817" "  54" " 4.20" " 0.05" -0.82 0.1
+189 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/31421.txt "K2IIIb      " " 4498" "  20" " 2.36" " 0.08" -0.25 0.05
+190 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/31996.txt "CIIe...     " " 3995" " 175" " 5.38" " 0.55" -2.25 0.72
+191 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/32147.txt "K3V         " " 4617" "  21" " 4.53" " 0.05" " 0.17" 0.04
+192 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/32356.txt "K5II        " " 4111" "  13" " 2.06" " 0.10" -0.30 0.05
+18 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/3268.txt "F7V         " " 6225" "  44" " 4.11" " 0.07" -0.16 0.06
+193 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/32736.txt "CII...      " " 4152" " 197" " 2.18" " 1.61" -1.52 0.9
+194 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/32923.txt "G4V         " " 5674" "  27" " 4.00" " 0.06" -0.22 0.05
+195 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/33111.txt "A3III       " " 8002" "  99" " 3.78" " 0.12" -0.20 0.12
+196 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/33256.txt "F2V         " " 6406" "  35" " 4.13" " 0.05" -0.28 0.05
+197 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/33276.txt "F2IV        " " 7188" "  36" " 3.75" " 0.05" " 0.21" 0.04
+19 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/3360.txt "B2IV        " 21652 " 505" " 3.87" " 0.05" -0.08 0.03
+198 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/33608.txt "F5V         " " 6428" "  34" " 4.08" " 0.05" " 0.18" 0.04
+199 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/33751.txt "K0          " " 4936" "  33" " 2.85" " 0.09" " 0.12" 0.07
+1125 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/338529.txt "B5          " " 6174" "  32" " 3.93" " 0.05" -2.15 0.08
+200 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/33904.txt "B9IV:...    " 12088 " 160" " 4.06" " 0.06" " 0.28" 0.07
+201 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/33959.txt "A9IV...     " " 7500" "  52" " 3.86" " 0.05" -0.02 0.05
+202 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/34255.txt "K4Iab:      " " 4196" "  18" " 1.14" " 0.09" -0.01 0.05
+203 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/34334.txt "K2.5IIIb    " " 4214" "  19" " 2.15" " 0.11" -0.43 0.07
+204 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/34411.txt "G1.5IV-V    " " 5874" "  27" " 4.21" " 0.05" " 0.08" 0.04
+20 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/3454.txt "F5          " " 6186" "  64" " 4.30" " 0.09" -0.56 0.11
+205 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/34578.txt "A5II        " " 8570" "  59" " 2.11" " 0.04" -0.19 0.05
+206 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/34797.txt "B8/B9IV:    " 12580 " 172" " 4.14" " 0.07" " 0.62" 0.08
+207 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/34816.txt "B0.5IV      " 29190 " 960" " 3.91" " 0.07" -0.06 0.05
+208 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/35296.txt "F8V         " " 6162" "  27" " 4.32" " 0.04" -0.02 0.04
+209 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/35369.txt "G8III       " " 4941" "  24" " 2.55" " 0.07" -0.23 0.06
+210 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/35410.txt "G9III-IV    " " 4886" "  29" " 2.84" " 0.08" -0.32 0.06
+21 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/3546.txt "G8III       " " 4979" "  43" " 2.46" " 0.12" -0.64 0.11
+211 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/35468.txt "B2III       " 22339 " 602" " 3.84" " 0.05" -0.07 0.04
+212 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/35497.txt "B7III       " 14226 " 196" " 3.57" " 0.07" " 0.20" 0.07
+213 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/35620.txt "K3IIICN+... " " 4206" "  17" " 1.97" " 0.10" " 0.15" 0.05
+1 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/358.txt "B8IVmnp...  " 12307 " 180" " 4.14" " 0.07" " 0.38" 0.09
+214 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/36130.txt "G0          " " 5925" "  37" " 4.21" " 0.07" " 0.10" 0.05
+215 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/36389.txt "M2Iab:      " " 3716" "  11" " 0.11" " 0.09" " 0.16" 0.05
+216 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/36673.txt "F0Ib        " " 7603" "  24" " 2.05" " 0.03" " 0.08" 0.03
+217 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/36861.txt "O8III       " 37689 " 963" " 3.90" " 0.06" " 0.03" 0.04
+218 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/37043.txt "O9III       " 35006 " 969" " 3.67" " 0.07" " 0.05" 0.06
+219 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/37088.txt "G0          " " 5790" "  35" " 4.26" " 0.07" " 0.13" 0.05
+220 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/37160.txt "K0IIIb      " " 4815" "  23" " 2.77" " 0.08" -0.57 0.05
+221 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/37216.txt "G5          " " 5468" "  29" " 4.63" " 0.05" " 0.03" 0.05
+222 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/37269.txt "B9.5V+...   " " 6239" "  71" " 3.97" " 0.12" " 0.02" 0.09
+223 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/37394.txt "K1V         " " 5328" "  27" " 4.67" " 0.05" " 0.21" 0.05
+224 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/37828.txt "K0          " " 4442" "  29" " 1.14" " 0.11" -1.49 0.08
+225 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/37984.txt "K1III       " " 4480" "  22" " 2.24" " 0.09" -0.45 0.05
+226 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/37986.txt "G8/K0IV     " " 5502" "  38" " 4.28" " 0.08" " 0.33" 0.06
+22 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/3817.txt "G8III       " " 5101" "  32" " 2.64" " 0.08" -0.15 0.07
+227 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/38656.txt "G8III       " " 4953" "  25" " 2.60" " 0.07" -0.19 0.06
+228 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/38674.txt "K2          " " 4069" "  18" " 1.85" " 0.15" -0.47 0.08
+229 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/38899.txt "B9IV        " 10385 " 138" " 3.89" " 0.05" -0.16 0.07
+230 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/39003.txt "G9.5III     " " 4678" "  20" " 2.36" " 0.06" -0.02 0.04
+231 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/39118.txt "G8III+...   " " 4927" "  49" " 2.01" " 0.13" -0.12 0.12
+232 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/39225.txt "M1.5II-III  " " 3653" "   9" " 1.35" " 0.17" -0.29 0.07
+233 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/39283.txt "A2V         " " 8856" "  68" " 4.13" " 0.04" -0.36 0.06
+234 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/39587.txt "G0V         " " 5942" "  26" " 4.43" " 0.05" -0.04 0.04
+235 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/39801.txt "M1          " " 3626" "  10" " 0.13" " 0.10" " 0.09" 0.05
+236 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/39833.txt "G0III       " " 5855" "  35" " 4.41" " 0.07" " 0.15" 0.05
+237 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/39853.txt "K5III       " " 3872" "  10" " 1.61" " 0.12" -0.46 0.06
+238 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/39866.txt "A2II        " " 9427" " 129" " 2.15" " 0.04" -0.34 0.1
+2 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/400.txt "F8IV        " " 6215" "  45" " 4.18" " 0.07" -0.24 0.07
+239 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/40035.txt "K0III       " " 4859" "  22" " 2.59" " 0.06" -0.07 0.05
+240 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/40111.txt "B0.5II      " 25771 1684 " 3.27" " 0.08" -0.06 0.07
+241 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/40136.txt "F1V         " " 6997" "  27" " 4.08" " 0.03" -0.05 0.03
+242 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/40183.txt "A2IV+...    " " 8774" " 131" " 3.55" " 0.18" -0.11 0.13
+243 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/40239.txt "M3II        " " 3388" "   6" " 0.55" " 0.10" " 0.03" 0.04
+244 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/40460.txt "K1III       " " 4804" "  28" " 2.53" " 0.09" -0.25 0.07
+245 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/40536.txt "A6m         " " 7836" " 120" " 3.69" " 0.15" " 0.38" 0.12
+246 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/40801.txt "K0II        " " 4812" "  21" " 2.95" " 0.07" -0.25 0.05
+247 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/41117.txt "B2Iaevar    " 23210 2321 " 2.85" " 0.12" -0.38 0.15
+23 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/4128.txt "K0III       " " 4906" "  27" " 2.63" " 0.07" " 0.07" 0.06
+248 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/41330.txt "G0V         " " 5873" "  27" " 4.18" " 0.05" -0.20 0.04
+249 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/41597.txt "G8III       " " 4644" "  22" " 2.08" " 0.08" -0.51 0.06
+250 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/41636.txt "G9III       " " 4714" "  23" " 2.55" " 0.08" -0.28 0.05
+251 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/41640.txt "F5          " " 6093" "  30" " 4.28" " 0.05" -0.58 0.05
+252 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/41692.txt "B5IV        " 16566 " 286" " 3.64" " 0.06" " 0.08" 0.05
+3 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/417.txt "K0III       " " 4858" "  33" " 2.45" " 0.10" -0.30 0.08
+24 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/4188.txt "K0III       " " 4859" "  24" " 2.66" " 0.07" -0.04 0.05
+253 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/42475.txt "M1Iab:      " " 3874" "  18" " 0.12" " 0.10" " 0.18" 0.06
+254 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/42543.txt "M1Ia-ab     " " 3666" "  12" " 0.20" " 0.12" " 0.14" 0.06
+255 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/43039.txt "G8.5IIIb    " " 4783" "  26" " 2.44" " 0.08" -0.31 0.06
+256 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/43042.txt "F6V         " " 6459" "  29" " 4.16" " 0.04" " 0.01" 0.04
+25 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/4306.txt "G0          " " 4915" "  73" " 2.01" " 0.22" -2.55 0.15
+26 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/4307.txt "G2V         " " 5803" "  32" " 4.01" " 0.06" -0.26 0.05
+257 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/43232.txt "K1.5III     " " 4375" "  20" " 1.61" " 0.08" -0.15 0.05
+258 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/43247.txt "B9II-III    " 12600 " 324" " 2.95" " 0.11" -0.02 0.16
+259 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/43318.txt "F6V         " " 6252" "  30" " 3.99" " 0.05" -0.13 0.04
+260 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/43380.txt "K2III       " " 4557" "  22" " 2.57" " 0.08" -0.01 0.05
+261 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/43384.txt "B3Ib        " 19771 " 779" " 2.87" " 0.07" -0.14 0.07
+262 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/43827.txt "K1III       " " 4400" "  20" " 2.03" " 0.08" -0.09 0.05
+263 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/43947.txt "F8V         " " 5982" "  27" " 4.29" " 0.05" -0.30 0.04
+27 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/4395.txt "G5          " " 5448" "  51" " 3.39" " 0.12" -0.28 0.1
+264 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/44007.txt "G5IV:w...   " " 4971" "  33" " 2.28" " 0.11" -1.57 0.08
+265 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/44033.txt "K3Iab:      " " 3796" "   7" " 1.57" " 0.10" " 0.01" 0.04
+266 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/44478.txt "M3III       " " 3460" "   5" " 0.82" " 0.09" -0.03 0.03
+267 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/44537.txt "M0Iab:      " " 3984" "  21" " 0.31" " 0.10" " 0.20" 0.06
+268 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/44769.txt "A5IV        " " 7717" "  47" " 3.84" " 0.05" -0.11 0.06
+269 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/44951.txt "K3III       " " 4384" "  19" " 2.14" " 0.09" -0.30 0.05
+28 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/4502.txt "K1IIe       " " 4632" "  43" " 2.31" " 0.15" -0.15 0.1
+270 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/45282.txt "G0          " " 5232" "  30" " 3.03" " 0.09" -1.50 0.06
+271 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/45410.txt "K0III-IV    " " 4964" "  25" " 3.17" " 0.07" -0.18 0.05
+272 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/45412.txt "F8Ibvar     " " 5987" "  30" " 1.88" " 0.07" " 0.13" 0.06
+273 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/45674.txt "F0          " " 7630" "  75" " 2.05" " 0.08" " 0.16" 0.07
+29 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/4614.txt "G0V         " " 5928" "  29" " 4.33" " 0.05" -0.28 0.05
+274 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/46184.txt "K1III       " " 4375" "  21" " 2.25" " 0.09" " 0.06" 0.05
+275 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/46317.txt "F5          " " 6307" "  33" " 4.21" " 0.05" -0.24 0.05
+276 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/46480.txt "G8IV-V      " " 4917" "  27" " 3.13" " 0.08" -0.53 0.06
+277 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/46588.txt "F8V         " " 6162" "  38" " 4.25" " 0.06" -0.13 0.05
+278 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/46687.txt "CII...      " " 3843" " 105" " 1.39" " 1.18" -0.15 0.46
+279 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/46703.txt "F7IVw       " " 6654" "  60" " 4.09" " 0.06" -0.85 0.11
+280 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/47105.txt "A0IV        " " 9231" " 124" " 3.21" " 0.08" -0.28 0.09
+281 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/47205.txt "K1III+...   " " 4766" "  22" " 3.20" " 0.06" " 0.18" 0.04
+30 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/4727.txt "B5V+...     " 15989 " 302" " 3.80" " 0.07" -0.05 0.07
+31 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/4744.txt "G8IV        " " 4643" "  22" " 2.46" " 0.08" -0.66 0.05
+282 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/47731.txt "G5Ib        " " 5151" "  26" " 1.32" " 0.04" -0.06 0.06
+283 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/47839.txt "O7Ve        " 40175 " 914" " 3.93" " 0.05" " 0.04" 0.04
+32 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/4813.txt "F7IV-V      " " 6197" "  33" " 4.29" " 0.05" -0.13 0.05
+33 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/4817.txt "K3Iab:      " " 4062" "  20" " 0.71" " 0.12" " 0.14" 0.06
+284 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/48329.txt "G8Ib        " " 4662" "  36" " 0.88" " 0.05" " 0.15" 0.07
+285 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/48432.txt "K0III       " " 4901" "  23" " 2.84" " 0.07" -0.16 0.05
+286 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/48433.txt "K1III       " " 4531" "  20" " 2.13" " 0.07" -0.17 0.05
+287 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/48682.txt "G0V         " " 6051" "  30" " 4.22" " 0.05" " 0.07" 0.04
+288 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/48737.txt "F5IV        " " 6544" "  29" " 3.91" " 0.04" " 0.15" 0.03
+289 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/48781.txt "K1III       " " 4691" "  21" " 2.31" " 0.07" -0.07 0.05
+290 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/49178.txt "G0          " " 5727" "  32" " 4.40" " 0.06" " 0.07" 0.05
+291 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/49368.txt "S...        " " 3562" "  14" " 0.57" " 0.19" -0.05 0.08
+292 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/49520.txt "K3III       " " 4406" "  23" " 2.21" " 0.10" " 0.01" 0.06
+34 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/4963.txt "K1III       " " 4661" "  22" " 2.32" " 0.08" -0.51 0.05
+293 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/49732.txt "F8          " " 6361" "  38" " 4.21" " 0.05" -0.62 0.06
+35 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/5007.txt "K1III       " " 4546" "  23" " 2.64" " 0.09" " 0.04" 0.05
+36 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/5015.txt "F8V         " " 6070" "  32" " 4.06" " 0.06" " 0.04" 0.04
+294 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/50420.txt "A9III       " " 7275" "  36" " 3.70" " 0.04" " 0.12" 0.04
+295 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/50692.txt "G0V         " " 5887" "  29" " 4.29" " 0.05" -0.20 0.05
+296 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/51309.txt "B3Ib/II     " 19990 " 714" " 3.09" " 0.08" -0.04 0.05
+297 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/51440.txt "K2III       " " 4325" "  21" " 1.85" " 0.11" -0.56 0.07
+298 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/51530.txt "F7V         " " 6094" "  35" " 3.96" " 0.06" -0.38 0.05
+37 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/5234.txt "K2III       " " 4457" "  24" " 2.18" " 0.10" -0.08 0.06
+299 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/52711.txt "G4V         " " 5898" "  31" " 4.34" " 0.06" -0.13 0.05
+38 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/5286.txt "K1IV        " " 4844" "  29" " 3.47" " 0.07" " 0.15" 0.06
+39 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/5394.txt "B0IVe       " 33939 1090 " 3.38" " 0.06" " 0.02" 0.04
+40 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/5395.txt "G8IIIb      " " 4890" "  26" " 2.51" " 0.08" -0.41 0.06
+300 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/54322.txt "G5          " " 5841" "  33" " 4.44" " 0.06" " 0.13" 0.05
+301 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/54662.txt "O7III       " 42421 1052 " 4.04" " 0.05" " 0.00" 0.05
+302 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/54717.txt "F5          " " 6442" "  34" " 4.25" " 0.04" -0.42 0.05
+303 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/54719.txt "K2III       " " 4441" "  19" " 2.17" " 0.08" " 0.16" 0.04
+304 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/54810.txt "K0III       " " 4758" "  30" " 2.63" " 0.10" -0.31 0.07
+41 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/5516.txt "G8III       " " 5039" "  30" " 2.88" " 0.08" " 0.05" 0.06
+305 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/55280.txt "K2III       " " 4692" "  23" " 2.82" " 0.07" " 0.05" 0.05
+306 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/55575.txt "G0V         " " 5868" "  26" " 4.25" " 0.05" -0.37 0.04
+307 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/56986.txt "F0IV        " " 7024" "  33" " 4.04" " 0.04" -0.17 0.05
+308 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/57264.txt "G8III       " " 4627" "  20" " 2.46" " 0.07" -0.38 0.05
+42 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/5750.txt "F5          " " 6330" "  47" " 4.21" " 0.06" -0.42 0.07
+309 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/57651.txt "K5          " " 3418" "   6" " 0.85" " 0.12" -0.07 0.05
+310 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/57669.txt "K0IIIa      " " 4658" "  25" " 1.88" " 0.07" " 0.13" 0.05
+311 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/57727.txt "G8III       " " 5067" "  24" " 3.00" " 0.06" -0.09 0.05
+312 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/58207.txt "G9IIIb      " " 4831" "  22" " 2.58" " 0.06" -0.11 0.05
+313 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/58343.txt "B2Vne       " 18173 " 590" " 3.66" " 0.09" " 0.01" 0.06
+43 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/5848.txt "K2II-III    " " 4500" "  27" " 2.28" " 0.10" " 0.12" 0.06
+314 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/58526.txt "G3Ib        " " 5515" "  29" " 1.19" " 0.05" " 0.00" 0.06
+315 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/58551.txt "F6V         " " 6220" "  28" " 4.23" " 0.04" -0.50 0.04
+316 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/58855.txt "F6V         " " 6310" "  36" " 4.18" " 0.05" -0.29 0.05
+317 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/58946.txt "F0V         " " 6991" "  29" " 4.11" " 0.03" -0.25 0.04
+44 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/5916.txt "G8III-IV    " " 5015" "  40" " 2.48" " 0.11" -0.71 0.1
+318 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/59380.txt "F8V         " " 6326" "  36" " 4.22" " 0.05" -0.15 0.05
+319 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/59881.txt "F0III       " " 7538" "  42" " 3.57" " 0.05" " 0.16" 0.04
+320 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/59984.txt "F5V         " " 5934" "  44" " 4.01" " 0.08" -0.72 0.08
+321 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/60179.txt "A1V         " " 9340" " 146" " 3.79" " 0.08" -0.06 0.07
+322 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/61064.txt "F6III       " " 6625" "  40" " 3.64" " 0.06" " 0.26" 0.04
+323 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/61295.txt "F6II        " " 7079" "  45" " 3.66" " 0.06" " 0.32" 0.05
+45 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/6186.txt "G9III       " " 4878" "  33" " 2.43" " 0.10" -0.35 0.08
+324 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/61935.txt "G9III       " " 4841" "  29" " 2.61" " 0.08" -0.04 0.06
+46 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/6203.txt "K0III       " " 4570" "  24" " 2.31" " 0.09" -0.34 0.06
+325 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/62301.txt "F8V         " " 5940" "  29" " 4.16" " 0.05" -0.65 0.05
+326 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/62509.txt "K0IIIb      " " 4893" "  23" " 2.89" " 0.06" " 0.05" 0.05
+327 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/63302.txt "K3Iab/Ib    " " 4304" "  34" " 0.24" " 0.08" " 0.12" 0.07
+328 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/63333.txt "F5          " " 6157" "  30" " 4.22" " 0.05" -0.36 0.05
+329 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/63352.txt "K0          " " 4179" "  17" " 1.92" " 0.10" -0.47 0.06
+330 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/63410.txt "G8III       " " 4896" "  25" " 2.53" " 0.07" -0.37 0.06
+331 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/63791.txt "G0          " " 4838" "  32" " 1.90" " 0.11" -1.59 0.08
+47 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/6397.txt "F4II-III    " " 6580" "  63" " 4.03" " 0.09" -0.10 0.08
+332 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/64238.txt "F2IV/V      " " 7166" "  44" " 3.16" " 0.07" " 0.31" 0.05
+48 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/6461.txt "G3V         " " 5106" "  48" " 2.45" " 0.13" -0.88 0.12
+49 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/6482.txt "K0III       " " 4790" "  30" " 2.79" " 0.09" -0.09 0.07
+333 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/64937.txt "K5          " " 3495" "   8" " 0.82" " 0.14" -0.05 0.06
+50 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/6497.txt "K2III       " " 4450" "  21" " 2.75" " 0.09" " 0.02" 0.05
+334 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/65583.txt "G8V         " " 5315" "  31" " 4.51" " 0.06" -0.67 0.07
+335 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/65714.txt "G8III:      " " 4966" "  27" " 2.51" " 0.07" " 0.12" 0.06
+51 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/6582.txt "G5Vb        " " 5397" "  35" " 4.53" " 0.07" -0.79 0.08
+336 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/65900.txt "A1V         " " 9228" " 142" " 3.34" " 0.11" -0.17 0.11
+337 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/67228.txt "G1IV        " " 5810" "  26" " 3.92" " 0.05" " 0.14" 0.04
+52 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/6734.txt "K0IV        " " 4985" "  36" " 3.40" " 0.10" -0.53 0.08
+53 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/6763.txt "F0III-IV    " " 6972" "  45" " 4.10" " 0.05" -0.11 0.06
+54 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/6805.txt "K1.5III     " " 4576" "  20" " 2.62" " 0.07" " 0.10" 0.04
+55 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/6833.txt "G9III       " " 4608" "  32" " 1.92" " 0.12" -0.72 0.08
+56 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/6834.txt "F2          " " 6416" "  48" " 4.23" " 0.06" -0.61 0.08
+57 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/6840.txt "G0          " " 6004" "  52" " 4.01" " 0.10" -0.33 0.08
+338 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/68988.txt "G0          " " 5820" "  41" " 4.17" " 0.08" " 0.28" 0.06
+58 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/6920.txt "F8V         " " 5944" "  43" " 3.71" " 0.09" -0.04 0.07
+4 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/693.txt "F5V         " " 6221" "  41" " 4.14" " 0.06" -0.34 0.06
+339 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/69582.txt "G5          " " 5692" "  35" " 4.52" " 0.06" " 0.13" 0.06
+340 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/69830.txt "K0V         " " 5444" "  33" " 4.52" " 0.06" " 0.02" 0.06
+341 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/69897.txt "F6V         " " 6261" "  28" " 4.19" " 0.04" -0.28 0.04
+342 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/70110.txt "F9V         " " 5909" "  27" " 3.95" " 0.05" " 0.09" 0.04
+59 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/7087.txt "G8.5IIIa    " " 4918" "  31" " 2.34" " 0.08" -0.10 0.07
+343 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/71369.txt "G5III       " " 5215" "  31" " 2.52" " 0.08" -0.13 0.07
+344 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/71479.txt "G0          " " 5886" "  38" " 4.15" " 0.07" " 0.19" 0.06
+345 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/71597.txt "K2III       " " 4449" "  19" " 2.54" " 0.08" -0.23 0.05
+346 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/71952.txt "K0IV        " " 4734" "  23" " 3.13" " 0.07" -0.15 0.05
+347 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/72184.txt "K2III       " " 4678" "  43" " 3.02" " 0.13" " 0.19" 0.09
+348 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/72324.txt "G9III       " " 4885" "  23" " 2.48" " 0.06" -0.02 0.05
+349 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/72660.txt "A1V         " " 9226" " 137" " 3.30" " 0.10" -0.14 0.1
+350 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/72946.txt "G5V         " " 5624" "  22" " 4.19" " 0.05" -0.03 0.05
+351 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/72968.txt "A1spe...    " 10651 " 281" " 3.63" " 0.24" " 0.77" 0.14
+352 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/73394.txt "G5IIIw      " " 4511" "  29" " 1.19" " 0.11" -1.61 0.08
+353 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/74280.txt "B3V         " 17816 " 202" " 3.73" " 0.06" " 0.01" 0.04
+60 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/7439.txt "F5V         " " 6422" "  46" " 4.15" " 0.06" -0.29 0.06
+354 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/74395.txt "G2Iab:      " " 5481" "  27" " 1.44" " 0.05" " 0.04" 0.06
+355 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/74462.txt "G5IV        " " 4742" "  43" " 1.72" " 0.15" -1.43 0.11
+356 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/74721.txt "A0V         " " 8789" "    " " 3.34" "     " -1.42 
+61 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/7476.txt "F5V         " " 6501" "  40" " 4.06" " 0.05" -0.17 0.05
+357 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/75332.txt "F7Vn        " " 6219" "  34" " 4.31" " 0.05" " 0.07" 0.04
+358 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/75333.txt "B9mnp...    " 11722 " 149" " 4.08" " 0.05" " 0.22" 0.07
+359 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/75732.txt "G8V         " " 5290" "  27" " 4.43" " 0.05" " 0.43" 0.04
+360 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/75782.txt "G0          " " 5912" "  37" " 3.87" " 0.07" " 0.19" 0.05
+361 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/76151.txt "G2V         " " 5793" "  26" " 4.47" " 0.05" " 0.13" 0.04
+362 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/76219.txt "G8Iab:      " " 5018" "  29" " 2.25" " 0.07" -0.09 0.07
+363 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/76291.txt "K1IV        " " 4583" "  19" " 2.77" " 0.07" -0.10 0.04
+364 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/76294.txt "G9II-III    " " 4917" "  24" " 2.46" " 0.07" -0.11 0.06
+365 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/76351.txt "K5III       " " 4186" "  19" " 1.63" " 0.10" " 0.09" 0.05
+366 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/76376.txt "K2/K3III    " " 4239" "  17" " 2.11" " 0.09" -0.05 0.05
+367 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/76508.txt "K1III       " " 4912" "  27" " 2.73" " 0.07" " 0.10" 0.06
+368 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/76579.txt "K3III       " " 4017" "  13" " 1.74" " 0.11" -0.17 0.05
+369 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/76644.txt "A7V         " " 7703" "  48" " 3.96" " 0.05" -0.03 0.06
+370 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/76780.txt "G5          " " 5765" "  38" " 4.38" " 0.07" " 0.18" 0.06
+371 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/76813.txt "G9III       " " 5074" "  25" " 2.71" " 0.06" -0.09 0.05
+372 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/76932.txt "F7/F8IV/V   " " 5843" "  28" " 4.08" " 0.05" -0.90 0.06
+373 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/76943.txt "F5V         " " 6511" "  30" " 4.19" " 0.04" " 0.14" 0.03
+374 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/76944.txt "K5          " " 3864" "  21" " 1.32" " 0.23" -0.16 0.09
+375 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/77350.txt "A0III       " 10037 " 167" " 3.35" " 0.11" -0.20 0.13
+376 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/77601.txt "F6II-III    " " 6578" "  52" " 3.14" " 0.10" " 0.42" 0.06
+377 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/77818.txt "K1IV        " " 4726" "  23" " 3.13" " 0.07" -0.23 0.05
+378 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/77912.txt "G8Iab:      " " 5015" "  27" " 1.75" " 0.06" -0.05 0.06
+379 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/78209.txt "A1m         " " 7508" "  47" " 3.77" " 0.06" " 0.54" 0.04
+380 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/78249.txt "K1IV        " " 4868" "  25" " 3.45" " 0.06" " 0.05" 0.05
+381 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/78316.txt "B8IIImnp    " 12460 " 259" " 4.21" " 0.09" " 0.51" 0.12
+382 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/78362.txt "Am          " " 7289" "  50" " 3.76" " 0.07" " 0.71" 0.04
+383 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/78418.txt "G5IV-V      " " 5741" "  40" " 4.22" " 0.08" " 0.08" 0.06
+384 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/78479.txt "K3III       " " 4486" "  20" " 2.60" " 0.08" " 0.22" 0.04
+385 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/78558.txt "G3V         " " 5700" "  31" " 4.20" " 0.06" -0.45 0.06
+386 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/78712.txt "M6IIIase    " " 3101" "  17" " 0.23" " 0.36" -1.00 0.0
+387 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/79028.txt "F9V         " " 5972" "  76" " 3.93" " 0.15" " 0.05" 0.11
+388 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/79158.txt "B8IIImnp    " 12305 " 151" " 4.11" " 0.07" " 0.73" 0.07
+389 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/79452.txt "G6III       " " 5029" "  28" " 2.43" " 0.08" -0.77 0.07
+390 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/79469.txt "B9.5V       " 10099 " 145" " 3.80" " 0.08" -0.42 0.09
+391 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/80218.txt "F5          " " 6180" "  33" " 4.16" " 0.05" -0.26 0.05
+392 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/80493.txt "K7III       " " 3899" "   9" " 1.63" " 0.11" -0.11 0.04
+393 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/80499.txt "G8III       " " 5065" "  26" " 2.48" " 0.07" -0.13 0.06
+394 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/80586.txt G8III-IV+... " 5084" "  26" " 2.87" " 0.07" " 0.01" 0.06
+395 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/81146.txt "K2III       " " 4394" "  18" " 2.44" " 0.08" -0.05 0.04
+396 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/81192.txt "G7III       " " 4822" "  24" " 2.69" " 0.08" -0.70 0.06
+397 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/81797.txt "K3II-III    " " 4176" "  15" " 1.67" " 0.09" " 0.06" 0.04
+398 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/81937.txt "F0IV        " " 7097" "  37" " 3.87" " 0.05" " 0.17" 0.05
+62 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/8207.txt "K0III       " " 4757" "  26" " 2.66" " 0.08" " 0.13" 0.06
+399 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/82210.txt "G4III-IV    " " 5343" "  33" " 3.49" " 0.08" -0.21 0.07
+400 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/82328.txt "F6IV        " " 6333" "  28" " 3.97" " 0.04" -0.14 0.04
+401 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/82395.txt "K0III       " " 4807" "  22" " 2.61" " 0.07" -0.08 0.05
+402 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/82590.txt "F6w...      " " 6564" "  68" " 4.16" " 0.07" -0.86 0.11
+403 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/82621.txt "A2V         " " 8851" " 113" " 3.80" " 0.11" -0.41 0.11
+404 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/82635.txt "G8III       " " 5100" "  31" " 2.93" " 0.08" -0.04 0.07
+405 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/82741.txt "G9.5III     " " 4856" "  22" " 2.51" " 0.07" -0.21 0.05
+406 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/83506.txt "K0III       " " 4951" "  30" " 2.45" " 0.08" " 0.15" 0.07
+407 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/83618.txt "K2.5III     " " 4270" "  18" " 1.96" " 0.10" -0.12 0.05
+408 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/83787.txt "K6III       " " 3818" "   7" " 1.45" " 0.10" -0.21 0.04
+409 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/83805.txt "G8III       " " 5047" "  27" " 2.76" " 0.07" " 0.02" 0.06
+410 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/84441.txt "G1II        " " 5392" "  25" " 2.11" " 0.06" -0.08 0.06
+411 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/84453.txt "K0IV        " " 4929" "  23" " 3.19" " 0.06" -0.10 0.05
+412 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/84737.txt "G0.5Va      " " 5860" "  28" " 4.02" " 0.06" " 0.10" 0.04
+413 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/84748.txt "M8IIIe      " " 3070" "  35" " 0.78" " 0.93" -1.00 0.0
+63 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/8491.txt "K0III       " " 4802" "  27" " 2.70" " 0.08" " 0.05" 0.06
+64 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/8512.txt "K0III       " " 4729" "  28" " 2.58" " 0.09" -0.12 0.06
+414 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/85235.txt "A3IV        " " 8662" "  72" " 3.71" " 0.08" -0.23 0.06
+415 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/85444.txt "G6/G8III    " " 5090" "  26" " 2.68" " 0.07" " 0.00" 0.06
+416 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/85503.txt "K2III       " " 4453" "  19" " 2.61" " 0.08" " 0.30" 0.04
+417 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/86322.txt "K1III       " " 4792" "  25" " 2.58" " 0.08" -0.12 0.06
+418 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/86728.txt "G3Va        " " 5745" "  28" " 4.27" " 0.06" " 0.23" 0.04
+419 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/86986.txt "A1V         " " 7863" "    " " 3.13" "     " -1.83 
+65 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/8705.txt "K2III       " " 4333" "  22" " 2.36" " 0.11" -0.23 0.06
+420 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/87140.txt "K0          " " 5061" "  41" " 2.46" " 0.13" -1.75 0.09
+421 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/87141.txt "F5V         " " 6312" "  31" " 3.90" " 0.05" " 0.04" 0.04
+66 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/8724.txt "G5          " " 4754" "  62" " 1.66" " 0.21" -1.68 0.16
+422 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/87344.txt "B8V         " 11061 " 232" " 4.00" " 0.07" " 0.00" 0.11
+423 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/87646.txt "G1IV        " " 5866" "  48" " 4.27" " 0.09" " 0.26" 0.07
+424 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/87737.txt "A0Ib        " 10637 " 159" " 2.07" " 0.05" -0.07 0.1
+425 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/87822.txt "F4V         " " 6486" "  43" " 4.06" " 0.06" " 0.06" 0.05
+426 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/87901.txt "B7V         " 12862 " 220" " 4.05" " 0.09" " 0.21" 0.09
+427 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/88195.txt "A1V         " " 9232" " 302" " 3.07" " 0.17" -0.47 0.25
+428 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/88284.txt "K0III       " " 4940" "  34" " 2.94" " 0.09" " 0.22" 0.07
+429 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/88355.txt "F7V         " " 6392" "  44" " 4.09" " 0.07" " 0.01" 0.05
+5 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/886.txt "B2IV        " 21397 " 382" " 3.84" " 0.04" -0.06 0.03
+430 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/88609.txt "G5IIIw      " " 4749" "  42" " 1.63" " 0.14" -2.48 0.08
+431 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/88737.txt "F9V         " " 6103" "  35" " 3.88" " 0.07" " 0.19" 0.05
+67 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/8890.txt "F7:Ib-IIvar " " 6192" "  50" " 1.40" " 0.09" " 0.13" 0.08
+432 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/88983.txt "A8III       " " 7957" "  53" " 3.87" " 0.06" -0.20 0.06
+433 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/88986.txt "G0V         " " 5787" "  32" " 4.06" " 0.06" " 0.02" 0.05
+434 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/89010.txt "G1.5IV-V    " " 5717" "  36" " 3.90" " 0.08" " 0.02" 0.06
+435 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/89025.txt "F0III       " " 7153" "  37" " 3.59" " 0.05" " 0.19" 0.04
+436 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/89125.txt "F8Vbw       " " 6159" "  33" " 4.25" " 0.05" -0.37 0.05
+437 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/89254.txt "F2III       " " 7122" "  78" " 3.79" " 0.10" " 0.36" 0.08
+438 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/89449.txt "F6IV        " " 6426" "  34" " 4.10" " 0.05" " 0.06" 0.04
+439 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/89484.txt "K1IIIb      " " 4566" "  22" " 1.98" " 0.08" -0.48 0.05
+68 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/8949.txt "K1III       " " 4700" "  29" " 2.67" " 0.09" " 0.13" 0.06
+440 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/89490.txt "K0          " " 5148" "  31" " 3.34" " 0.07" " 0.06" 0.06
+441 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/89707.txt "G1V         " " 5959" "  37" " 4.30" " 0.06" -0.46 0.07
+442 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/89744.txt "F7V         " " 6155" "  32" " 3.95" " 0.06" " 0.15" 0.04
+443 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/89822.txt "A0sp...     " 10286 " 134" " 3.96" " 0.06" " 0.13" 0.08
+444 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/90250.txt "K1III       " " 4726" "  24" " 2.61" " 0.08" -0.01 0.05
+445 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/90277.txt "F0V         " " 7292" "  36" " 3.82" " 0.04" " 0.19" 0.04
+446 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/90508.txt "F9V         " " 5790" "  32" " 4.33" " 0.06" -0.33 0.06
+69 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/9057.txt "G9III       " " 4967" "  30" " 2.74" " 0.08" " 0.06" 0.06
+447 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/91190.txt "K0III       " " 5039" "  29" " 2.78" " 0.07" " 0.00" 0.06
+448 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/91204.txt "G0          " " 5842" "  43" " 4.12" " 0.08" " 0.19" 0.06
+449 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/91752.txt "F3V         " " 6524" "  28" " 4.11" " 0.04" -0.15 0.04
+450 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/91889.txt "F7V         " " 6111" "  31" " 4.15" " 0.05" -0.24 0.05
+451 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/92055.txt "CII...      " " 3888" " 100" " 1.23" " 0.94" " 0.02" 0.35
+452 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/92125.txt "G2.5IIa     " " 5433" "  25" " 1.88" " 0.06" " 0.01" 0.06
+453 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/92588.txt "K1IV        " " 5116" "  28" " 3.67" " 0.06" -0.03 0.06
+70 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/9269.txt "K0IIIvar    " " 4779" "  31" " 2.55" " 0.10" -0.22 0.07
+71 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/9270.txt "G7IIa       " " 5006" "  34" " 2.26" " 0.08" -0.06 0.08
+454 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/92769.txt "A4Vn        " " 7902" "  47" " 3.98" " 0.05" -0.20 0.07
+455 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/92839.txt "CII...      " " 3826" "  89" " 1.09" " 0.92" " 0.14" 0.31
+456 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/93487.txt "F8          " " 5120" "  35" " 2.31" " 0.10" -1.20 0.09
+457 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/93813.txt "K0/K1III    " " 4371" "  19" " 2.13" " 0.09" -0.18 0.05
+72 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/9408.txt "G9IIIb      " " 4844" "  31" " 2.51" " 0.09" -0.30 0.07
+458 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/94247.txt "K3III       " " 4233" "  16" " 1.86" " 0.09" -0.19 0.05
+459 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/94264.txt "K0III       " " 4731" "  19" " 2.82" " 0.06" -0.12 0.04
+460 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/94280.txt "F8          " " 6054" "  33" " 4.22" " 0.06" " 0.06" 0.05
+461 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/94363.txt "K0III+...   " " 5036" "  26" " 3.11" " 0.07" -0.21 0.06
+462 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/94600.txt "K1III       " " 4634" "  20" " 2.52" " 0.07" -0.16 0.05
+463 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/94601.txt "A1V         " " 9429" " 153" " 3.87" " 0.08" -0.30 0.11
+464 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/94669.txt "K2III       " " 4562" "  22" " 2.64" " 0.08" -0.13 0.05
+465 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/95128.txt "G1V         " " 5855" "  29" " 4.24" " 0.06" " 0.00" 0.04
+466 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/95241.txt "F9V         " " 5899" "  30" " 3.83" " 0.06" -0.28 0.05
+467 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/95272.txt "K1III       " " 4712" "  24" " 2.51" " 0.08" -0.06 0.05
+468 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/95345.txt "K1III       " " 4559" "  24" " 2.17" " 0.09" -0.15 0.06
+469 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/95418.txt "A1V         " " 9370" " 133" " 3.85" " 0.07" -0.03 0.07
+73 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/9562.txt "G2IV        " " 5819" "  45" " 3.91" " 0.09" " 0.17" 0.07
+470 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/95849.txt "K3III       " " 4501" "  29" " 2.40" " 0.11" " 0.17" 0.06
+471 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/96436.txt "G9IIICN...  " " 4792" "  27" " 2.85" " 0.09" -0.46 0.06
+472 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/96833.txt "K1III       " " 4621" "  22" " 2.33" " 0.07" -0.02 0.05
+473 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/97603.txt "A4V         " " 8141" "  57" " 3.84" " 0.07" -0.18 0.07
+474 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/97633.txt "A2V         " " 9154" " 130" " 3.25" " 0.09" -0.25 0.1
+475 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/97907.txt "K3III       " " 4368" "  18" " 2.21" " 0.09" -0.05 0.05
+476 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/98231.txt "G0V         " " 5927" "  25" " 4.34" " 0.05" -0.29 0.04
+74 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/9826.txt "F8V         " " 6151" "  40" " 4.10" " 0.07" " 0.08" 0.05
+477 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/98430.txt "K0III       " " 4610" "  30" " 2.09" " 0.11" -0.44 0.07
+478 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/98553.txt "G2/G3V      " " 5867" "  54" " 4.36" " 0.09" -0.48 0.1
+75 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/9856.txt "K1III       " " 4426" "  24" " 2.08" " 0.10" -0.11 0.06
+479 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/98744.txt "G0          " " 6191" "  49" " 4.06" " 0.08" -0.26 0.07
+480 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/98824.txt "K1III       " " 4776" "  21" " 2.61" " 0.06" " 0.01" 0.05
+481 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/98991.txt "F3IV        " " 6600" "  37" " 3.93" " 0.05" -0.02 0.04
+482 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/99028.txt "F4IV        " " 6739" "  36" " 3.96" " 0.05" " 0.19" 0.04
+483 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/99167.txt "K5III       " " 3819" "   7" " 1.76" " 0.10" -0.08 0.04
+76 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/9927.txt "K3III       " " 4371" "  21" " 2.29" " 0.10" " 0.12" 0.05
+484 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/99491.txt "K0IV        " " 5470" "  29" " 4.39" " 0.06" " 0.38" 0.05
+485 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/99747.txt "F5Vawvar    " " 6667" "  31" " 4.19" " 0.03" -0.48 0.04
+486 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/99998.txt "K3.5III     " " 3991" "  12" " 1.61" " 0.11" -0.26 0.05
+1126 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/BD+01_2916.txt "K0          " " 4312" "  26" " 0.66" " 0.09" -1.91 0.06
+1127 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/BD+04_4551.txt "F7Vw        " " 5986" "  58" " 4.16" " 0.09" -1.28 0.13
+1128 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/BD+09_3063.txt "Flat        " " 5048" " 160" " 2.67" " 0.41" -0.50 0.41
+1129 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/BD+09_3223.txt "Flat        " " 5164" "  51" " 2.40" " 0.15" -2.08 0.13
+1130 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/BD+11_2998.txt "F8          " " 5334" "  45" " 2.61" " 0.12" -1.21 0.11
+1131 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/BD+18_2890.txt "Flat        " " 5102" "  49" " 2.59" " 0.15" -1.45 0.11
+1132 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/BD+18_2976.txt "G0          " " 4753" "  49" " 1.58" " 0.16" -2.17 0.11
+1133 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/BD+25_2436.txt "G7III       " " 4964" "  41" " 2.46" " 0.12" -0.53 0.1
+1134 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/BD+25_2479.txt "G8III       " " 5458" "  46" " 4.33" " 0.09" " 0.40" 0.07
+1135 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/BD+25_2497.txt "G6III       " " 4941" "  46" " 2.49" " 0.14" -0.65 0.11
+1136 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/BD+26_2276.txt "G6III       " " 5810" "  69" " 4.05" " 0.13" " 0.11" 0.1
+1137 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/BD+27_2057.txt "G7III       " " 4882" "  51" " 2.50" " 0.15" -0.56 0.12
+1138 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/BD+27_2096.txt "G6III       " " 5572" "  47" " 3.89" " 0.10" " 0.41" 0.07
+1139 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/BD+27_2126.txt "G5          " " 4721" "  25" " 2.57" " 0.08" -0.06 0.06
+1140 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/BD+28_2079.txt "G7III       " " 4812" "  31" " 2.36" " 0.10" -0.50 0.07
+1141 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/BD+29_2231.txt "G7III       " " 4942" "  48" " 2.52" " 0.14" -0.44 0.11
+1142 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/BD+29_2294.txt "G5III-IVp   " " 4983" "  44" " 2.47" " 0.13" -0.70 0.11
+1143 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/BD+30_2611.txt "G8III       " " 4391" "  28" " 0.96" " 0.10" -1.46 0.08
+1144 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/BD+30_2931.txt "K2          " " 4427" "  20" " 2.27" " 0.08" -0.21 0.05
+1145 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/BD+31_2356.txt "G6III       " " 5843" "  55" " 3.96" " 0.11" " 0.24" 0.08
+1146 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/BD+34_2371.txt "G7III       " " 4906" "  69" " 2.47" " 0.16" -0.43 0.16
+1147 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/BD+36_2303.txt "G7III       " " 4649" "  31" " 1.75" " 0.11" -0.92 0.08
+1148 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/BD+36_368.txt "K1III       " " 4797" "  48" " 2.69" " 0.15" -0.09 0.11
+1149 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/BD+37_2312.txt "G7III       " " 5617" "  45" " 4.22" " 0.09" " 0.20" 0.07
+1150 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/BD+37_2319.txt "G6III       " " 5707" "  46" " 4.05" " 0.09" " 0.31" 0.07
+1151 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/BD+37_448.txt "G9III       " " 4900" "  37" " 2.70" " 0.10" -0.06 0.08
+1152 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/BD+39_2554.txt "G6III       " " 5595" "  43" " 3.88" " 0.09" " 0.25" 0.07
+1153 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/BD+45_1668.txt "A9.2        " " 8693" "  79" " 4.72" " 0.06" -0.48 0.16
+1154 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/BD-01_2582.txt "F0          " " 5004" "  72" " 2.24" " 0.22" -2.25 0.16
+1155 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/BD-10_3166.txt "K0V         " " 5326" "  43" " 4.45" " 0.08" " 0.40" 0.07
+1156 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/BD-11_4126.txt "K3V         " " 4731" "  26" " 4.63" " 0.06" -0.03 0.06
+1157 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/BD-15_872.txt "F2          " " 5511" "  66" " 4.27" " 0.16" -0.39 0.13
+1158 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_101-29.txt "G0          " " 5374" "  65" " 3.26" " 0.18" -2.01 0.15
+1159 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_102-20.txt "Flat        " " 5418" "  38" " 4.49" " 0.08" -1.09 0.1
+1160 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_102-27.txt "G0          " " 5595" "  36" " 3.65" " 0.08" -0.57 0.07
+1161 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_103-55.txt "G0          " " 5567" "  37" " 4.34" " 0.07" -0.36 0.07
+1162 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_103-68.txt "M3          " " 3477" "  11" " 4.76" " 0.07" -1.08 0.15
+1163 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_107-27.txt "K2          " " 4197" "  21" " 4.67" " 0.07" -0.17 0.06
+1164 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_108-29.txt "G0V         " " 5752" "  30" " 4.31" " 0.06" -0.39 0.05
+1165 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_108-43.txt "G0          " " 5805" "  38" " 4.23" " 0.07" -0.59 0.07
+1166 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_11-45.txt "G4V         " " 5668" "  36" " 4.34" " 0.07" " 0.15" 0.06
+1167 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_112-54.txt "G8V         " " 5317" "  25" " 4.53" " 0.05" -0.78 0.06
+1168 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_114-18.txt "G5          " " 5444" "  58" " 4.50" " 0.11" -0.13 0.11
+1169 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_119-32.txt "F5          " " 5706" "  58" " 3.96" " 0.11" -1.90 0.14
+1170 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_119-64.txt "G0          " " 6134" "  55" " 4.16" " 0.07" -1.53 0.13
+1171 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_12-21.txt "F2          " " 5938" "  51" " 4.18" " 0.08" -1.32 0.12
+1172 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_12-22.txt "G8V         " " 5479" "  84" " 4.48" " 0.16" " 0.24" 0.14
+1173 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_12-24.txt "G3V         " " 5648" "  31" " 4.29" " 0.06" -0.15 0.05
+1174 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_122-39.txt "G0          " " 5578" "  34" " 4.60" " 0.06" -0.33 0.06
+1175 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_122-51.txt "G8Vp        " " 5173" "  28" " 4.76" " 0.06" -1.22 0.08
+1176 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_122-66.txt "G8Vw...     " " 4955" "  26" " 3.37" " 0.07" -0.53 0.06
+1177 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_123-29.txt "G0V         " " 5745" "  24" " 4.28" " 0.05" -0.83 0.05
+1178 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_124-40.txt "K0          " " 5458" "  40" " 4.09" " 0.08" " 0.52" 0.06
+1179 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_125-4.txt "K0V         " " 5196" " 131" " 3.82" " 0.31" -0.26 0.26
+1180 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_126-62.txt "sdF8        " " 6055" "  55" " 4.09" " 0.08" -1.44 0.13
+1181 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_136-45.txt "G0          " " 5598" "  26" " 4.41" " 0.05" -0.13 0.05
+1182 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_139-48.txt "G0V         " " 5774" "  38" " 4.24" " 0.07" -0.76 0.07
+1183 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_140-5.txt "A5          " " 6035" "  38" " 3.94" " 0.06" -2.09 0.09
+1184 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_143-17.txt "G5Vw        " " 5513" "  30" " 4.25" " 0.06" -1.50 0.08
+1185 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_144-6.txt "F7V-VI      " " 5974" "  34" " 4.19" " 0.05" -1.11 0.07
+1186 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_149-25.txt "K0          " " 5601" "  29" " 4.53" " 0.06" -0.33 0.06
+1187 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_15-20.txt "K3V         " " 4884" "  34" " 4.56" " 0.07" " 0.25" 0.07
+1188 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_16-13.txt "G0          " " 5748" "  41" " 4.01" " 0.08" -0.84 0.08
+1189 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_16-32.txt "K1.5IV      " " 4862" "  25" " 3.67" " 0.06" " 0.08" 0.05
+1190 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_160-27.txt "G0          " " 5504" "  30" " 3.91" " 0.07" -0.48 0.06
+1191 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_161-29.txt "K:          " " 4676" "  36" " 4.56" " 0.08" -0.06 0.08
+1192 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_162-13.txt "K2          " " 5343" "  37" " 4.47" " 0.07" " 0.34" 0.06
+1193 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_163-78.txt "K0          " " 5185" " 112" " 4.17" " 0.26" " 0.36" 0.23
+1194 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_165-11.txt "G0          " " 5800" "  31" " 4.12" " 0.06" -0.57 0.06
+1195 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_165-39.txt "A4          " " 6160" "  40" " 3.98" " 0.06" -2.03 0.1
+1196 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_166-25.txt "F9V         " " 5786" "  29" " 4.09" " 0.06" -0.60 0.05
+1197 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_166-45.txt "A5          " " 6060" "  51" " 3.93" " 0.08" -2.16 0.12
+1198 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_17-21.txt "F8V         " " 5877" "  28" " 4.14" " 0.05" -0.73 0.05
+1199 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_17-30.txt "G0          " " 5706" "  31" " 4.19" " 0.06" -0.48 0.06
+1200 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_170-47.txt "G0          " " 5070" "  34" " 2.35" " 0.10" -2.48 0.07
+1201 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_175-33.txt "G0          " " 5731" "  39" " 4.15" " 0.08" " 0.30" 0.06
+1202 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_176-11.txt "M2V         " " 3948" "   9" " 5.13" " 0.29" -1.43 0.04
+1203 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_180-35.txt "K0V         " " 5292" "  28" " 4.36" " 0.05" " 0.49" 0.05
+1204 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_181-47.txt "G1V         " " 5632" "  41" " 4.06" " 0.09" -0.48 0.08
+1205 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_182-19.txt "G0V         " " 5795" "  24" " 4.25" " 0.05" -0.54 0.04
+1206 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_183-11.txt "F0          " " 6133" "  35" " 3.97" " 0.05" -2.06 0.09
+1207 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_19-24.txt "K5          " " 3959" "  15" " 4.59" " 0.06" -0.27 0.06
+1208 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_193-33.txt "G0          " " 5814" "  34" " 4.12" " 0.07" -0.52 0.06
+1209 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_196-33.txt "F8          " " 5901" "  24" " 4.30" " 0.04" -0.47 0.04
+1210 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_196-48.txt "G           " " 5672" "  80" " 3.78" " 0.16" -1.61 0.18
+1211 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_196-9.txt "K5          " " 3947" "  12" " 4.61" " 0.05" -0.29 0.05
+1212 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_197-45.txt "G5          " " 5402" "  51" " 4.51" " 0.10" -0.61 0.11
+1213 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_197-56.txt "G2V         " " 5620" "  62" " 4.42" " 0.12" -0.71 0.13
+1214 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_200-36.txt "G5          " " 5511" "  29" " 4.43" " 0.06" " 0.18" 0.05
+1215 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_200-62.txt "K1V         " " 5180" "  25" " 4.51" " 0.05" -0.38 0.05
+1216 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_205-5.txt "K2V         " " 4973" "  21" " 4.56" " 0.04" -0.20 0.05
+1217 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_207-5.txt "F8          " " 5904" "  51" " 4.32" " 0.09" -0.50 0.09
+1218 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_212-10.txt "K0III-IV    " " 4877" "  32" " 3.19" " 0.09" -0.17 0.07
+1219 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_22-7.txt "K0IV-V      " " 5534" "  31" " 4.30" " 0.06" " 0.31" 0.05
+1220 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_223-65.txt "G3IV        " " 4968" "  31" " 2.38" " 0.09" -0.72 0.08
+1221 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_227-46.txt "M3V         " " 3481" "  10" " 4.78" " 0.07" -1.01 0.13
+1222 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_229-34.txt "F8          " " 5675" "  31" " 4.18" " 0.06" -0.28 0.05
+1223 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_230-49.txt "G0          " " 5763" "  53" " 4.24" " 0.12" -0.54 0.1
+1224 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_237-84.txt "G0          " " 5572" "  29" " 4.52" " 0.06" -0.45 0.06
+1225 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_241-18.txt "G5          " " 5631" "  43" " 4.39" " 0.08" -0.51 0.08
+1226 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_243-63.txt "F8V         " " 5063" "  51" " 2.46" " 0.16" -1.63 0.12
+1227 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_244-59.txt "G8V         " " 5538" "  34" " 4.44" " 0.07" -0.50 0.07
+1228 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_245-32.txt "sd:F2       " " 6114" "  62" " 4.06" " 0.09" -1.80 0.16
+1229 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_246-38.txt "G0          " " 5389" "  60" " 4.04" " 0.13" -1.90 0.16
+1230 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_249-49.txt "G0          " " 5875" "  33" " 4.11" " 0.06" -0.83 0.06
+1231 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_25-15.txt "F9V         " " 5887" "  47" " 4.32" " 0.08" -0.58 0.09
+1232 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_25-29.txt "G5          " " 5802" "  52" " 4.12" " 0.10" -0.65 0.1
+1233 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_250-22.txt "K5          " " 4257" "  20" " 4.68" " 0.06" -0.16 0.06
+1234 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_256-34.txt "K1III       " " 4693" "  26" " 2.57" " 0.10" -0.60 0.06
+1235 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_257-32.txt "K7          " " 3600" "  15" " 4.59" " 0.11" -0.84 0.19
+1236 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_259-35.txt "G5III       " " 5056" "  31" " 2.48" " 0.09" -1.44 0.07
+1237 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_27-44.txt "F8          " " 5987" "  45" " 4.18" " 0.08" -0.68 0.08
+1238 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_270-23.txt "F5V         " " 6161" "  59" " 4.12" " 0.08" -1.09 0.12
+1239 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_36-33.txt "K1V         " " 5344" "  27" " 4.64" " 0.05" " 0.14" 0.05
+1240 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_37-26.txt "A4p         " " 5876" "  35" " 3.99" " 0.06" -1.98 0.09
+1241 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_4-44.txt "G5          " " 5846" "  49" " 4.23" " 0.09" -0.66 0.09
+1242 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_40-34.txt "F0          " " 6570" "  51" " 4.24" " 0.05" -1.39 0.12
+1243 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_43-3.txt "sdF5        " " 6210" "  38" " 3.94" " 0.06" -2.12 0.09
+1244 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_43-33.txt "F8          " " 5954" "  35" " 4.01" " 0.06" -0.50 0.06
+1245 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_44-6.txt "G1V         " " 5675" "  33" " 4.34" " 0.06" -0.64 0.07
+1246 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_46-31.txt "Flat        " " 5925" " 111" " 4.12" " 0.19" -0.83 0.2
+1247 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_48-29.txt "sd:A2       " " 6227" "  50" " 3.92" " 0.08" -2.25 0.12
+1248 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_5-40.txt "G0          " " 5893" "  76" " 4.19" " 0.13" -0.81 0.15
+1249 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_57-11.txt "G5          " " 5759" "  36" " 4.46" " 0.07" " 0.06" 0.06
+1250 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_58-25.txt "F4V         " " 5930" "  31" " 4.13" " 0.05" -1.39 0.07
+1251 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_58-30.txt "G0          " " 5902" "  29" " 4.30" " 0.05" " 0.13" 0.04
+1252 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_60-6.txt "K2          " " 5046" "  40" " 4.60" " 0.08" " 0.10" 0.08
+1253 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_63-9.txt "F9V         " " 5897" "  32" " 4.19" " 0.06" -0.71 0.06
+1254 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_65-16.txt "G5          " " 5694" "  38" " 4.30" " 0.07" -0.42 0.07
+1255 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_65-47.txt "G1V         " " 5689" "  29" " 4.41" " 0.05" -0.37 0.05
+1256 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_7-6.txt "G0          " " 5746" "  32" " 4.12" " 0.06" " 0.17" 0.05
+1257 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_74-5.txt "F8V         " " 5699" "  24" " 4.33" " 0.04" -0.95 0.05
+1258 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_75-62.txt "G5          " " 5520" "  29" " 4.42" " 0.06" -0.47 0.06
+1259 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_78-14.txt "G8          " " 5286" "  39" " 4.57" " 0.08" -0.40 0.08
+1260 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_80-15.txt "F9V         " " 5798" "  26" " 4.18" " 0.05" -0.89 0.05
+1261 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_81-38.txt "G1V-VI      " " 5786" "  28" " 4.25" " 0.05" -0.51 0.05
+1262 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_82-12.txt "G0          " " 5660" "  30" " 4.13" " 0.06" -0.26 0.05
+1263 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_84-29.txt "sd:F0       " " 6189" "  40" " 3.88" " 0.06" -2.25 0.1
+1264 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_84-37.txt "G0          " " 5895" "  41" " 4.19" " 0.07" -1.06 0.09
+1265 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_88-40.txt "F8          " " 5932" "  36" " 4.14" " 0.06" -0.84 0.07
+1266 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_89-11.txt "K0          " " 5131" "  33" " 4.47" " 0.06" " 0.16" 0.06
+1267 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_90-1.txt "K2V         " " 4948" "  41" " 4.71" " 0.08" -0.06 0.08
+1268 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_90-25.txt "sdG2        " " 5479" "  30" " 4.28" " 0.06" -1.61 0.08
+1269 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_95-4.txt "G0          " " 5648" "  30" " 4.13" " 0.06" -0.42 0.05
+1270 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_95-57.txt "K1V         " " 5187" "  33" " 4.63" " 0.07" -0.94 0.08
+1271 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/G_96-20.txt "F8          " " 6284" "  37" " 4.26" " 0.04" -0.90 0.07
+1272 /home/avinash/Dropbox/PyCharm/IFAS/CFLIB/NGP_29_129.txt "K1V         " " 5315" "  44" " 4.45" " 0.09" " 0.22" 0.08
