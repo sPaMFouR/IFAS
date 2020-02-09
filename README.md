@@ -4,7 +4,7 @@
 
 Python code for parameterisation and classification of stellar spectra with the help of Artifical Neural Networks (ANN). This project was carried out over a 8 day period at the Indo-French School on Spectroscopy and Polarimetry, IUCAA conducted in August 2017.
 
-Authors
+**Authors**
 -------
 
 * **Avinash Singh** (IIA, Bengaluru)
@@ -14,14 +14,11 @@ Authors
 * **Sorabh Chhabra** (IUCAA, Pune)
 * **Fency**
 
-Requirements
+**Requirements**
 ------------
 - numpy
 - scipy
 - pandas
 - astropy
 - sklearn
-
-_Plotting_
-- matplotlib
-- seaborn
+- matplotlib, seaborn (for plotting)
